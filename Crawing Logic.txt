@@ -37,7 +37,27 @@
 > 1~12 可能大學可能科技大學
 
 
-virtualenv C:\Users\User\Desktop\backup\brt\Projects\crawing\venv -p C:\Users\User\AppData\Local\Programs\Python\Python38\python.exe
+py -m virtualenv C:\Users\User\Desktop\backup\brt\Projects\Crawing-List-of-Admitted-Schools-for-Students\venv -p C:\Users\User\AppData\Local\Programs\Python\Python38\python.exe
 
 - 找錄取排名
 校細分則.招生名額 算正取數字 其餘備取
+
+
+## tesseract-ocr 匯入chi_tra判別  
+https://github.com/tesseract-ocr/tessdata/blob/main/chi_tra.traineddata
+丟到
+C:\Program Files\Tesseract-OCR\tessdata
+
+> add letters file to configs folder cant fix and cant limit the characters
+
+根據圖2 dark_item.children只會到那邊因為下面沒有text了
+
+fixed 沒有 正備取的問題
+```
+try:
+    base64_str = i.find_all('img')[0]['src'].split(',')[1]
+except IndexError:
+    # print("not exist")
+    rank = "None"
+else:
+```
