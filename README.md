@@ -7,6 +7,7 @@
 
 - If want to get the whole number then have to enter the `test place` link, but we cannot enter the website(now we've downloaded whole list of all department using Ctrl+s)
 
+- get all univ & department they had applied and add it into df using for loop.
 ### Done
 - merge dataframe one by one column from different dataframe
 - 正取、備取 have limit. using try, except, else functions. We can try to download all of the test place and use substring to enter it and compare to what unis he had apllied to get the whole test number.
