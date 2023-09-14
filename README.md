@@ -7,7 +7,10 @@
 
 - If want to get the whole number then have to enter the `test place` link, but we cannot enter the website(now we've downloaded whole list of all department using Ctrl+s)
 
-- get all univ & department they had applied and add it into df using for loop.
+- get all univ & department they had applied and add it into df using for loop. Run `get _test_location_url.ipynb` to get a csv file named `whole.csv`. -> Trying to delete which repeat.: We can use excel! Nice!
+
+
+
 ### Done
 - figuring out what's `processing_list` function doing (?count?)
 - merge dataframe one by one column from different dataframe
@@ -18,3 +21,7 @@
             > if first digit is `L`, `l` then change it to `1`.
         1. campare to unis he had applied
     1. get whole test num
+
+- Get location link first, use excel to delete which more than one and Ctrl+s by each.
+
+- have to fix the sequence of department_name (正1、正2沒有對應到 都會延後兩位)
