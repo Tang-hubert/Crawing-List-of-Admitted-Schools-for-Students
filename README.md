@@ -14,6 +14,7 @@
 
     - get all univ & department they had applied and add it into df using for loop. Run `get _test_location_url.ipynb` to get a csv file named `whole.csv`. -> Trying to delete which repeat.: We can use excel! Nice!
 
+- try to get the whole `<td` count i:9 and print univ_and_department with accepted univ_and_department. 
 
 
 ### Done
