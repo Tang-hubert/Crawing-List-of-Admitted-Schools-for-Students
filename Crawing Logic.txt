@@ -61,3 +61,7 @@ except IndexError:
     rank = "None"
 else:
 ```
+
+
+裡面其實每一張圖都有自己的編號
+所以如果去定義編號(用dict) 就不需要用OCR辨識了
