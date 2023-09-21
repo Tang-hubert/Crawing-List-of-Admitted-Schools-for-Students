@@ -69,3 +69,20 @@ else:
 用List 去比對，只是目前 list 還是有''空字串，要先檢查考區同樣的人有沒有一樣的現象，如果有就不用處裡，
 如果沒有就要兩方都先處理(記得fullna()要刪)再去做比對最後擷取number。還要考慮要不要也加入准考證號碼一起做比對，
 只是考區完整的准考證也需要夠穩定，記得儲存檔名要更改。
+
+
+
+
+
+
+### {exam_location, stuno}
+scho = '國立'
+# scho = exam_location
+# for file in glob.iglob(f'data\test_location\{scho}學測查榜.html'):
+# stuno_first3 = stuno[0:3]
+# stuno_last = stuno[-1]
+
+# get exam_lacation stuno & list of univs, merge it into a list -> [stuno[0:3], stuno[-1], dept....]
+# make the same of the original version
+# if list_exam_location[i] == list_original[i]:
+# get the whole number and return
