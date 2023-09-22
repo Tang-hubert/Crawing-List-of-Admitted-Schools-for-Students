@@ -16,6 +16,9 @@
 
 - try to get the whole `<td` count i:9 and print univ_and_department with accepted univ_and_department. 
 
+fix: glob.iglob repeat finding same exam_location_folder.
+
+feat: add if-statement
 
 ### Done
 - figuring out what's `processing_list` function doing (?count?)
@@ -31,4 +34,8 @@
 - Get location link first, use excel to delete which more than one and Ctrl+s by each.
 
 - fixed the sequence of department_name (正1、正2沒有對應到 都會延後兩位)
+
+- make each students in list find their own
+
+- add efficiency thoughts: calculate each students searching(every folders with same exam_location) for each correspond stuno and make it store in a variable. and just call it to get the value.
 

@@ -86,3 +86,25 @@ scho = '國立'
 # make the same of the original version
 # if list_exam_location[i] == list_original[i]:
 # get the whole number and return
+
+
+<td align="center" scope="row" valign="middle" width="28%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAw0lEQVRYhe2XUQ6EMAhEq9ljcjzuWT+aNdDSblgQdyPv0zF1OkDVrdZakjf73QZ+i4yDkXEwMg5GxsF4zQQAKKUgopcUQHt6h8qMHIe4rkWKxFIMYVj+OgsjQne0dBeNp5XOCRpHyV2iN4jSmoijlCbV+XOX2nVEXJRnwTb7SPc6Sh277KOksioyfbN40e2BOnOX7EQMCy1RV1tfCQCMJ/rlwxLMmJTKjBDHGPC54ndSMNSJ1sO0O55J/rMwMg5GxsE4AHPZullgUaBZAAAAAElFTkSuQmCC"/>
+<a href="https://www.com.tw/cross/checktestareaid_36_k5ZqaZdu_112.html" title="點擊看看==&gt;這試場同學,他們推上哪些校系">
+<br/>考區 : 私立復旦高中 </a>
+</div></td>   5
+
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA40lEQVRYhe2X2w7DIAhAYdn//zJ7IBJRZN5qm5TztiLWHkUdEhEEic/dA3gWoUMROhShQxE6FN9WABEBwDx3hkL8pKDIdTp0Gsxl+dg6zG9YCf0dtIPZQB4iojMxoxjFst2Fw4oLImIRdZu5wYCpQ16zK8Rgoj+rp0ZqIxM1IhzaSnlJtyazlQLjX7XiAg7ooIT8hO4aOewCnJPlCRTWWrvmlizmch1zM+bsF0TEe1C+0CS0+OoTxQL6XIS19Zz3uaW3HGMh1YUtbeZCRdS/pPVf/K64hg3U1RuI/yyK0KEIHYofrT+xMXHUibkAAAAASUVORK5CYII="/></div></td>   3
+
+同個顏色跟同個顏色比較
+所以如果再function內，就直接使用function內的變數就好了。
+
+另外考區的沒有系級中間的空白''，所以要事先處裡方便比對，或是list drop掉''。
+
+
+效率:
+list_color 可以只找一半
+if 遇到對的(list[i])就break
+甚至號碼一樣再去比對校系List
+
+
+目前的現況是一位同學的考區去20-27個試場「算」並找到對的那個人的條件(stuno[0:3] & stuno[-1] & dept_whole)

@@ -1,0 +1,1320 @@
+data\test_location\國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-1www.com.tw.html
+hi
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA30lEQVRYhe2XSw7EIAhAYTL3vzKzMJKCiI6/tglvV1GrT9EWiQiCzOfuATyL0CEIHYLQIQgdgm8tgIgAYN47f4VSiUK1dTp0KoyN0MfWYc5hJtScqoNZgQsR0dQ0hpEsy104zLggoiTiWmfGBZg6+DWrQgnM9LfqyRFlpDkMn0NHadrS5WL6TWAo/2fYroMy/AjdOXL+B6J6szwBZa08NZezXcfYOjvnBRGlM+i60VZpOpEsIO9FmB4997k8p4ztVyY21xkLqaj/kdb/WeUUNjussT0b30X8swhChyB0CH6VMaUrTyiFVwAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_011292_NO_1_112_0_3.html">國立清華大學 材料科學工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_011352_NO_1_112_0_3.html">國立清華大學 資訊工程學系乙組(資訊工程組)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_013102_NO_1_112_0_3.html">國立陽明交通大學 材料科學與工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立清華大學 材料科學工程學系', '國立清華大學 資訊工程學系乙組(資訊工程組)', '國立陽明交通大學 材料科學與工程學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA40lEQVRYhe2X2w7DIAhAYdn//zJ7IBJRZN5qm5TztiLWHkUdEhEEic/dA3gWoUMROhShQxE6FN9WABEBwDx3hkL8pKDIdTp0Gsxl+dg6zG9YCf0dtIPZQB4iojMxoxjFst2Fw4oLImIRdZu5wYCpQ16zK8Rgoj+rp0ZqIxM1IhzaSnlJtyazlQLjX7XiAg7ooIT8hO4aOewCnJPlCRTWWrvmlizmch1zM+bsF0TEe1C+0CS0+OoTxQL6XIS19Zz3uaW3HGMh1YUtbeZCRdS/pPVf/K64hg3U1RuI/yyK0KEIHYofrT+xMXHUibkAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_017352_NO_1_112_0_3.html">中國文化大學 機械工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_045012_NO_1_112_0_3.html">義守大學 電機工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1208002_NO_0_112_1_3.html">明新科技大學電子工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> 112.5.27 </div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1208003_NO_0_112_1_3.html">明新科技大學應用材料科技系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> 112.5.27 </div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中國文化大學 機械工程學系', '義守大學 電機工程學系', '明新科技大學電子工程系', '明新科技大學應用材料科技系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA8ElEQVRYhe2Wyw7EIAhFYdL//2VmYTSCSBWt00w4O8UHXhVAIoIg8/m1A+8i5GCEHIyQgxFyMK6eAREBQM07U6bUIxBzjQWNAb1Z9Y6zeVOXQz3Diun2qAbqgNKJiK36qQcRhfUW5bNs18JgRQsiKscW/anpKKkUOco2u0wJzIzPGvkjQpHWK8OllkOhND1a2/V2CrhuGDrSj/C4HJQpTRj+I24tZqUvvDrRiksePNus9DXdRLsL3z0b8YKI6pSx8o5aTnwW6Af/xTXtsOrYS0nL7esqY3wmYbWLtPHC74kybK5K+XteHUrPE3IwQg7GF1/TvTXVOezJAAAAAElFTkSuQmCC"/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_043012_NO_1_112_0_3.html">中華大學 電機工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_043062_NO_1_112_0_3.html">中華大學 機械工程學系(智慧機械組)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1208001_NO_0_112_1_3.html">明新科技大學電機工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> 112.5.27 </div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中華大學 電機工程學系', '中華大學 機械工程學系(智慧機械組)', '明新科技大學電機工程系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA60lEQVRYhe2X2w7DIAiGYdn7vzK7ICUDEVHbrln47gRP/BFUJCIoDl6/3sCzKDkUJYei5FCUHIp3z4GIAODeO1MuthjM2GDCoENv1PeKs/emL4cbw45rGGqA20GMiNiqzxZENN4hTrKcrkXAjhZEJGEbOzeNN4Mjhyxzlkv2yuRHZXJkIeaAm0opH9qprQ8LSot7WKa4XA46kCakc2ThA7FcNZjuzfIEjGrJCHd+YZefjrZeZCCNGKGTEdJns4jckSzQ3/3mnEGtXVvLOX6twIH2GZfxxo+0/MPvimfYSr35Y+rPoig5FCWH4gNr1cApcjiT+AAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_008182_NO_1_112_0_3.html">中原大學 電子工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD10lEQVR4nO1b23LcIAyV8Pb//7fNmj5QK+ImhMDY2fo8ZDJjDOJYd1j0/jc8mAd3tQCfhofQyXgInQwNoXi6FB+El2LMBgAAO8AuTvIG8K2F5DGfAA2hTQ3F469A1v+i5k1CySfU1PNaYPypvMkC+CS2Gb7RJBSPZW4FB+DqWu9FBxWAxwzFSTQzlKEk9D7qiQBby4EEsmoy4/E9mqs4g9OXCcVYQzdRju0IX4bl/rReDHClJfiGm566qNq1GRDgBfDu0ieZUHesdweTT9isWaVgyFCawWeEYky662KgqaHA5tor827iU/0YAQmbgtZotElwkf54+mLZywbwpRRUIBQzB1r7UBuTsoZxQkmGwWR2B3grhn3FnMpJ4TcEn8j3cC14FDJ/koC3jk1ai6Ct0YVxN0nFMc6FB/ONrte7wt0/1AgVsrzF4BIuzt4splDzoTnRcs4EY2kT1DOnWca+CEWOhLRjMVxM6A9AUWWKLNf8V4gYJ7WRppXYyyAQ6rO+Q3EkthKmEXBC14NvX7vBoq8ENUdE/RnAqwnl5BgrJcpRNGxuh3rqM7suCPaRdzfyInKiAPbSkzRub8V0d7J6QoXQWrJBhjXLmxvjISdUr57IMqRmK0yGss8U8GqlH0Gw8fwf40LRSKjSe6Ii35yChDsqQH1mg1ybgniD5s+L3T6HxgndAbbW+8hcpz8+Y1HLqD9UfIq64yw+G1lPLuGeNZ47+kMZhloHSWH31XqfB6KVkTfIKbQ2fCy82YxcbOzd8TZxf/KxJbmw9VUg6jwj37+h2ONdV2/TcWU8wVg311eBSmXxsZJ2RcuETWMuqHRkKFr6L/Fd+akSeoPYGS96JcXM+xlNUEloUMkLC2r9uoYmJmZh3W6C+lBbW6Pma8ajPG8m2AjVYCabMOP23c9oAlUwmU0YI/TsnqnlBKIH89mEe2vo2bo/n03oLFcSBGmaJx/mKO+ZGxWu1hSlohlqeJ3BJgxo6JpjEp5UKpfTHOqdxSYMaCj1KWoJMNVwxRxAWRryLqLTJdvNJiZnc7wvVZjdBmpV1MzKZ/8YkFh9sxOWkNUcML81bjN5KpwW1KB8z3LvdYvVM5ftdDbBqqHUOV0AfnxAiU5iGcklxaIjemV098YA1X4NhPK6fg3CQtyZujhecdQaDvnFz16oDhcM865UT0LCKdSvcl/8Q5NeQmeddBoO+N6H7RdTKPut+LnoInQ7bM3GJq1lvl1DS6MiPUrQdRpoRxehdLvXZlN73MEdSRLuezMH1/68O7lj/oEYqeUN+GQqA55fI0/GQ+hkPIROxkPoZPwF/S0wye/G4ksAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_009162_NO_1_112_0_3.html">東海大學 資訊工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAD2UlEQVR4nO1bW3LkIAyUwHv/+25mzH4QKPESAsvYM+v+SKViG0SjFxJB5/7CAz2YqwX4NjyEKuMhVBkSQvF0Kb4Im+AdCwAAO8DODvIGcL2J+He+ARJCuxqK4SdD1v+i5l1Co09oqed6INkep63ymO798PhdQjGMey0QwBSrjXCsR5LAhPGrGBhfSOiF6olhtfw7FsBM+Wj/Le+RvAwKhGKqoZZdmA3ha2K6n8bfq4pDKcP09w3gPbL9piZza3wReEJNmOAqk6er9XbnigVjSroRC2xq45ebwbiaCroaCkS4vSGoZZ/K32mBcWEuPN1IsmEBXr0xMzYZvR5zdwyhWDjQ1s7b8JSZe5rQHeAteO2VcsrncEB8l9PNjhmfSKe8Cm8Zmx50O/kgRqPQnNE0wUx8h1R8yNyEwQTT5Fo5gWkRyiRlt4VQ0eiS9dPBlg8tieZzJjiWNkE7c1LHWcbuUeVoIEv4NJiUUH1UVabKcsvdeAf/KWWk84oAv2AIdUWZoPom9hKmZaDStuShhJ6Cqq8EMUeR+juArqUqEi4gNNPQmFJI2LRBPeWp4qnomjNjcGX9pTzmipARGjVu78V0cz/17EabKqGt7CVa6lh4oITK1RNJhtStrfFQyZYwPdfJHfrWy2f8Sgfyf0qo0HuiIN9cDHqUZPxPxl38yhXWTfXdr1dq/pTQHcD2HCIS1+mCXlS1LJZzqk9R1s6SYO5gbog5lkvei8KzpIL1Oy4d5dUTiAaiO3hPkxq7PDz6r5jii0vZkNpl5v74tmX0OKcc2sZBa5pOqEEBKPOMlG7R6VEYTzDVzTuk8Rmbo6mb8BOXKmmfLqEjQ9bS/7Df8k/ngIWzGrUY+fs72bm+kgoJ3YMQd7B0LML6hMXIFzLWs5OH2pbQLed1UpQ/wiatTswR2sfx23crdVZFN8/FEUIX10yPs3mo4S7EB2noSr85jyPHFb+8budDJcpvGpbuiBuVXq0RFIUTTGvoyjaJCpseNKkUyj/W1JvW0FhWaKXH8VBYzQHkFRbK5vGuLy1LGlluP9Y1mSY0VhZac7jilwlkbB6vZGdW3y2tZQL0MWfy8eB0ataizqYHHYcv5tpUPXXuh7ZmgpOD5lYsZtRlM6YTDT+mYpmpZdcoB2oFE4TSc/15KC9+joLpBXjJqTM1abyiGKtVTgi6QD0XIOMU2pfN53tKEmh1Ou/Q4HsH26+mUJP39ocItcE05tiMc0ni5pqrTnEtOJoetTBEaLwuPDffnpaEb3LfxEOtMolr/707u2P+hdBqPQrxzVR6PP+NrIyHUGU8hCrjIVQZ/wCbEDDJ5HlBMAAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_014482_NO_1_112_0_3.html">淡江大學 電機工程學系電機與系統組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAxCAIAAACNhrrVAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACw0lEQVR4nO2b0ZKDIAxFA7r//7+7VfaByoQImGCsQD0PnXbKRLmGACEa537hQQ979w2MxiOoMo+gyszxz1v0dQDujuteAhF0uuMeVoCF3dgAmO27Q59nMOjz7NOdj5s0gQWwSEqMl2CtEiJn1htc5QbBKC2b7ObdfxrWMBM7EC0SCQzAlHlCAQfwYht80/6ktL9DlxmYEztk7dVM2jQVI7iXIR8GNekzGbN2a1mAqLnG4cJsNnFjfojvQNByOPN/4bBgjwQlahKxHMAC4JCzW1GAbn/IvxiRcdm5WA5bVBPQX/iigsVP+4Iywf0vC+pxRwOZPKTy9MW6dl9w5vf9GpZvkyvUMIJywJ3lPAAs+td5KAfsnhwPdfGoZ3EoqAWYe1gMYHJiicb7viVLU46HCkLyfZBVekWDJJcI2gV4+k7Gx0dQAXhvk5ttPjTIBhDUooU3M0V0oYf2NdtgzLbt4ex84GMeqi7oj6QxPz82FxVZa/Oh+vTroZ76TPBFqAsqyHRpYLY0qIt33wWkjuxE4UJd0IucJTwng76Y+OcsPJ5iIgu+vQx5t/viIflgP02V4/K1s1PvyyY/0l/xpvuWs9s3vQvqIcnNOzfKYwgK8Y4zmbSvycVVbFiHERTq8sESvk7QcofPeyiLkQQt8wx5ZU4Kyq15GlXQZOfF5xkVSf6RBMV9SfZfOmtJD/W4dnvhOkEFNY4tCyo6yyIFNrn+47VqeUNFDHJpXFBmLePEOFPyECfNGbdsg5TGkyNB02RJrUF5+0A50+ztBLG8Gxaq7w4rdiiNC+oxaDdZmKmZyWYvEE5Q2bxZ8UFAy4K6VHI3F1VF1cZE06RZfsY6ApeEl89triZXS16orodzBfa5qvBTxyote6gn9A2/qwEar4AEpzYVO6IcWNCGjrpSaL1Ek7SsZrYjQfug5XVolzyCKvMIqsw/vjrNXMRqD84AAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_015122_NO_1_112_0_3.html">逢甲大學 光電科學與工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADYklEQVR4nO1b23KtIAxNoOf///e0W/rgwIRbCBgUreuh09kql+XKhYDo3H94oQdz9QCehpdQZbyEKkNCKE4fxYPwJbjHAgDABrCxjXwAXKsj/p4nQEJoU6Ho/zJk/RWZNwkNPqEmz2thtAeG8bt3vSbVJBR9u0vBABg/NhVCaYM5HOvxIggJXUSe/LTHgAC21SbKTYEnFGOFWjYrsD58DXT3zT41g8fQcj5mao7dnfKEGt/BVSb/NTOaJWzW7NpkjpVDU6FA2NwqzFr2qvye2gAo9rfbMcMKEjY/dYvuc3cMoZg50JpUrb/K9D1GaIDz7e+PS7I9HsF3Od3smBkZ7fIqJDxqgUYh5cZ5hV6OnwltYpxcKycwtag9KaquADpl/XSwptCcaD5ngmNpE7QyJ0XMMvYdRY6Ox9BlYWJC9VGUTJHlmrvZHfxdykiBzVnJNUOoy8oExTuxlTAtBUroFBR9JYg5CtTfAngCoYlCQ0ohYdN6eX70xzUFjMGZTFvbmFtICA2K21ox3dxNnlAhtJa9BEvtCw+UULk8kWRI+bvtwmnZUhHN4ss+0478nxIq9J4oyDfXRMKdJdWfxLppdrXPV2r+lNANwLYcIhLX6bw2iyoL5ZziVdQocByBIeaYT3nLCs9WuA5O1mE/rfdAA9GNvGeOfeKfuoBczIbULhP3x29bBo8zZdF2LlDmGSndotWjMJ5grM27pPEMhNmei0XapkvoyJC19H/ss/zVqyC3sI0Ye1ukQkI3P4i7W3qAfCJ9e3byUFszc1cJfwtGeVqdGCO0jeOn7x6jWR0cIfR2NdNDG+5C/CmFnjHUI45sf8nNnY91orwjblR+yqxZFI4wrNCbbpPQpFI4/r5NvWGFhrJCLT0Oi+ViDnBVhYWWJY0st+/bNRkmNFQWan247J8VkFh9s7RG63siFzFm8mHhdMc1KFUlX8y1sTx1zofWeoJTpCdxc8wp2drvwfBDjSIxteQAZcc2zwChdF0/G5LhDZw53UdOnamJ4xVFX61ygNDT5DkVCadQUfqhPSUJtHY6V9jg+3jbL6ZQHefqKboItd40xtgMfcnj5uwtvDAX7E2Paugi9OBpTVpYdIslCWqVSTz38+41P9LRxMlFySdTueP9GlkZL6HKeAlVxkuoMn4BmTf0xmoEZV8AAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-1www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_015482_NO_1_112_0_3.html">逢甲大學 美國加州舊金山州立大學資訊工程雙學士學位學程</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACuklEQVRoge1a25bbIAwcgfv//9smpg8uHGGDEBgw22Qe9niDYxhGNxSTc7/xqTBPL+BJfMl/KjTkafgqHsKmuMcCAHZgFx/yBlxpIvme2dCQLypP/q9AbEXzKZIPfpGTfT6IbaW7Y0pF8uTneBYEmJg2hxO9Mgsl+QdlP2jLgZkAC5jamEJihUd+d16A8xOMwJ/M58YLzsHpXQ3hrZdKVt74yZ4ye8uuD9t2F/IUb5DRL1gmf3L4PfNQK47q78lBcGnnRzeWdCzw0jxXIE8Xh8/tqGVLzKGZ/A68Fbe9Yv5y3v0HwYfD0IOh/q1jfoBvvSo2CTetUJZUZRk5ECaQI3+Nseuj2kJzPn/dlGKes3FwrpoO+Ww3EEk+uULqf0NSiuSO5JKNBWi145oSAnkX65/kZnxSWeHYw1erWk/St6HmE7ZpBXAuqiWdyJP/RMPcetn1qXgoqs+5JvWvRnaznuyBfMvBRi87saxWPG/K6JLhKK5HteT5upXeTop8PhmWyV7hg1z5HbClLxNzdef3Lqme8XuUHCVd+1ADGxt8hRueyBdDBQ9yKxRCJjb4utB7cle5/bqxQ+4Kcc4wB3TKMzyH0va4tbe0CgfgxLwl3erJB2u/av5L/K482gaKbbbREpXkD6kfbOZx0CW8N1qiPuTmJsg526Bo3405erSiZ9pCT+a4R35yquvMHD9K+c7Mca/MOpZS7F51ifZbd+a4ofzMVtcQ5rihfPgxJ1ddhMIzmQv0p6MtLt171lfN5MPhN+fz7nLRgBPzzl2TNrMnVuqOw1jmaFU+nPzHgTM/drk2xJSX10Ce1/njQPF1wzrLPaIGs58g+yTUku/VsV2i+VllTta/99DGPMylabPO+OmuSvnwGkSbYjsrjZZoisgvJPWfDsDj1h7Qq4WqxCq0D3zfuv5UfMl/Kv4CZb/DoSnKVTgAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中原大學 電子工程學系', '東海大學 資訊工程學系', '淡江大學 電機工程學系電機與系統組', '逢甲大學 光電科學與工程學系', '逢甲大學 美國加州舊金山州立大學資訊工程雙學士學位學程'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA5ElEQVRYhe2X0Q7DIAhFYdn//zJ7MBphiEKtaxbOUyuici1ikYggqbx+vYBnkXIwUg5GysFIORjvkQERAUCtOy5TaREIX2NAo4PROJpoii6HGsMV0zRUA7WD0djmQkREdCmiJMt2LQw2agEARNQHX55dC1PkEINeNxWwsu41SqLpXLa7waGjtHy0ru0KBNP7xtxvl4Mq7RWWcyT8A+GVvvHoQivyyxtbQJFhod1FbJ+9lXgXJ5IFui26NTBxVAfmUsry99fVV/KASVjtS9rK7W59GV7dfbeUv+fRR+l5Ug5GysH4AP8JpTLQsCw9AAAAAElFTkSuQmCC"/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1102013_NO_1_112_1_3.html">國立雲林科技大學智慧機器人學士學位學程</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1107011_NO_1_112_1_3.html">國立虎尾科技大學電子工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立雲林科技大學智慧機器人學士學位學程', '國立虎尾科技大學電子工程系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA1UlEQVRYhe2X0Q7DIAhFYdn//zJ7MCXCKCqWrks4by0oeoFqkYigOHj9egHPouQQlByCkkNQcgjeZwZEBADz3FkytTcKNdaZ0HGIxfKx5TDn3TENt+pgOsRiDTGa5XItHC7XYhOjOpq6TuGtmhps6rPnj+J2UA6xWDPc9ClFRCIabkMNgVDlB2Ix6XLQAT/CdI+sahGL1XN6sjwBtZOW9tSI6XKE8xyYJNxfzB3NAl2e91ecGssov+9mY5+YSVn9i9PM7S4Wa4b0bvwv6p9FUHIISg7BB9DZnDYWsg2UAAAAAElFTkSuQmCC"/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_004112_NO_1_112_0_3.html">國立成功大學 機械工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_013272_NO_1_112_0_3.html">國立陽明交通大學 工業工程與管理學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立成功大學 機械工程學系', '國立陽明交通大學 工業工程與管理學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA00lEQVRYhe2X2w7DIAhAYen//zJ7MJrCkFK8tMk4bxuCeiyzQyKCpPJ5egHvInUwUgcjdTBSB+PoBRARANR751aofCMQuUZBY4BzLruyQNfRqxsOXW7VQB3gsewpLlCaZboLg4kupqDoIKLeYcZCBaz4s3pNdDmXnW6w6acUEdsenGcb2Mx4+nIdVGkfwd0jm12AcbO8AWGtPGLOrJjK5Tpii7t7Ew9O19jRLHA658Hl2owXVx6/38ZuY2IhEbVfnDxvd72sJTr+mfzPwkgdjNTB+AKNeJwo11UOBAAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-1www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_001382_NO_1_112_0_3.html">國立臺灣大學 農藝學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAA0CAIAAADpMup6AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACgElEQVRoge2b0XajMAxEx4b+//9uU9QHrVxDwUjCKWA8Jw9pjgPhMrIl4Qaif+iyK579A+6qDs6pDs6pDs6pcf7nKRwJoLXPRyAcPvjn4SOsawFueNNpipqArzPOe0jj/pDTlNOMEg2v7fGaMdW0AOc2dhS3VgwNWnu/GtT6MdV0Zccdl2/KnjSDGgYXvVO2ClxPR5xq2HETMAEDEAFSrBjsUO382Lzj9AuFLWdsHhzreCK91O1C9cM43uq4Hqr/lUBUNt2u4/40HVeoUJyFog/CnptsjtOEav0J4oAKSdYWNVJcQhrQQ/VHzEJ5+zu4H2nA2eIUDwNXYNfBrYgUpjODq57HmfIsTSVURVR0XOiO21LZcYnamY57dxPcWjmwuNoPG9kcu8fW/qwOTtXMOkMkGfLi1nriFDesVd2VQzLd728BIOstvx04R+WQvhgFbn4QT5zunqwxMZ38klOcmmeYR4FjOnlE80MJ23rKehQ4mpsu2c2TCTwKHIRRyJ6BeeyG54HLTee3G1oBF+RplkbJdAAm92P/26UjuYIYx9Rqpay16d8scTtwYf5K0ncrYzYsukudu4BLl7r4wSThRro9D/mawIcdfR2aK4OLa86CYDIXSVkGx+2sKEXY4FgirgwO2XxP85dDQTCRYJoEJZ/Fxu7K4Ca5TjespAW1dDSGFWV/icHCVwaHSt29LWrpFEHGQM+ujTyuoCibsFepsV7y+aDfUjfO3xeWc2Xr1dehxXu2hw/ZarBFjfWSy9fOdw07bpyvobuz5EviVLWVM3fcZbvePn3JRkH9RJmqsf2vhIb+e9DflXTo4quqScezFoManuPeqw7OqQ7OqQ7OqW9O+5yXSJVbTwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_003302_NO_1_112_0_3.html">國立中興大學 食品暨應用生物科技學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAxCAIAAACNhrrVAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABvklEQVR4nO2a3XKEIAyFI9r3f9+2K71gpKDjLj8nkN3ku9IZIHgmR6KweP9NBg43ewKfhgkKxgQFs+W3U/T1RH5GXBZOgq4z5rATPVr7OqIdOZduttdNJOKIHNFCRAyCLkTrMXjgp7zzSdCKnjnuyO7mEQqjuPxROVh7QrxFho7RMcbqCiRc0G2UjoHlWJb9cVuN8LLp+kieaGerCqLZ28cXnqERn0vJMW2XqPloDiFcUM+ckpElMWtX2SBc0N9RgVKzdwkq/B06hnRlb/7E+B9LOSez975bXlreHfGGuW8wa74W9VLyDh1ZCQ4GafY4olrAZg9oFhRs9oBaQfFmj+PqBG/2ALyw/6pp7CcVDxuH2QMKM5TL7AF4huKniIbL7AG4oLJ2eC4wmj2gyvK8Zo8x9MBr9lOMj4eljL8i/H8oCpekjq//O3Fq/yy79QiaXtf6smKzXYnlx/0wUyLoOJRYvuE8S3okoKK7ZSgYExSMCQrGBAVjgoIRvsqX1I93beYcMxcuaMn07tqwHv29xSwPZsuvn1iscLOoak8pZU5CwRFu+YkqN+4epoIK3714D0xQMLYogTFBwZigYP4A0xVJmTx92sgAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_003312_NO_1_112_0_3.html">國立中興大學 農藝學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB0klEQVRoge2ay7KDIAxAE/T+///eqnTBwATqI0EcQ/QsOnZqLUcDhBT0/h+eiru7AXfyyj+VMX97y73wAP6O3y3lhzvasADM7JMRAOOxJ681jMenqMABOKJNCYGzVNwFbDTVuRg1nxZXowzszjgDLKJL6x/wflvoN4aJQdptewn7FNiFc9EdXDyThX75ILPlEz6iXcPx5fWH/cSQmUlEIF9KvzwTeoMeLc/FjHwNj5Y/HO1dvEHT5W1pBjfV40x1q0mlNmgjufJmwj6JCJIcG/KOiAiGfQPyjqT0O7ngCvrT2y0wZvWpt4vqAgAXyP9JTvbsSWTcHXeXuvV8v08+sL/sOaC5vCzwToNxGe/z5Q2L5vKVD+GIdE+RHGD+dpR2+17C3v8cBDCf58IQyE1Ge5/qQrRP+XqeW8zqXT7g82jn5uM25CHParnFHDPyUFHMsSQvTnIsyYt55Q3C6gKW5KnLKy/5gjZQUj4c8oW9BXnm/9NDXQ1P+cIm+a9uP0BSz0kIqhrK5QNIMla6gCkQFzY0y4d/4wvJrVGAXxEj1yLbUvbrZFeztZ9lZzcOnNmQA7qffCBFMpJXOL8VC3L5iypQrWhgW9CRfHs0z/OX88o/lS8QU3NXXkv6JwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_109092_NO_1_112_0_3.html">臺北醫學大學 保健營養學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG8AAAAxCAIAAABbI2CwAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB3ElEQVRoge2b0XaDIAxAA3X//7+bkz1w4EQQmmAsceY+tWe24j0hhZC5EL7BEMLPHsC/wmxKYjYlWfZvp8gNAGHGfeUpbL5mjGED+B39rAfYJMdyjuX9JRrxAB7AAQDf5hf/ditx9hQ2f/h3ivgU18PfQLxLlqiRW8SmdokZ5TaXKyUGcr6m/kgqt1mrjAsAJ2RZeC2h3GYmStzS8ysdttJhJQqJ2lFuc509AB62s5TEbErydqb7ZPxmk24KlLx5g2WzEmymS2I2JVG+Qrqaw73WOE+26Y4eP6AtAxtxm6zqYdC3VMgVgFiH5jm1vNnCAby4hxHisTl8JvExWvXsGJVFITVGG/WhxG0qOqVhktNljMrs1NPTqM30mlAdBFEtmc0WWCi1OG02O7DD02x2wLnSYvMs7H2R2ZTEbEpiNiUxmx3wLw8ph5rNDliO2TyFQ3JsZ3kWXD2iLpWeZnMhPLLbd5PRm7+0194pO5DWNYcBFetDPnXjhOqvvkqXjBqjcpuU4bWu6fTlOjSRcWmjIKpk7IiU2/wArdAe6cZf9q87M4t44DPQVR65tMU7s6bqeic/jHflKY9NccU4D7pqfX62rxHbvO8hxBjy/6f0ZJvyPG29eS1mUxKzKckfiwdagyPtu6kAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1101010_NO_1_112_1_3.html">國立臺灣科技大學管理學士班</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1103014_NO_1_112_1_3.html">國立屏東科技大學獸醫學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADWUlEQVR4nO1b0XKtIAwM4P3//73tkT5kYIJIiCGote5D53T0QM6yZAOoi/E/vLCDvzqAp+El1BgvocaQEOqmR/EgLIJ7AgAArAAr28gHIPY64u95AiSEdhXq0l+GrL8i8y6hOSe05Hk+HBmeeDfJdwnF0C8P2gH4kkqKyGYkxD+LML66dwgJvVCeSCVvng4gAPjJOVrUMk+oKxUa2B8Wkn0pumuNvE/CpKA/zJWfF4DPtOEXNcsTivRdmKfoCOG8jhWhriTdNwL+1gaQJWVA6CaBrg1mA3tVfk8LTIqM6epCio2wR5+i3437icAQ6qoE2pJqSFeZMVQTugJ8BLd9l5zyNZwQNL9J0wiTE/OlCy3+I2MTQX+zyZJaU5wxHd+hFD9kLy2z0oHm5QNhtAitvfX+sJ1JdIIeILSVQ2ui+ZoJxsomkNTMJ0JjR4hdjloLkr8DjR0hdiWzy3KrcMFK7WHbSPq9AobQWOp0t12fCpQ7bJ3QaEfiUdpR/vIGkqJy8/WbaJP+lpGQlHZUBwFpGQeyhkKSp7xUnAqTPT29HSH83r+SkfH3k6d+npbtZGjaoTlULk9HKqTu3hoPk2rJDc7TsqnczqhChdnTCerNkxEIESP5x0DmVKErQOgF5EjqjGk8dlXmE++7V53sOEuCULJwmR0hNoR2dU6N6A7Fvy9ZGJHnqB3lgCj4Y8u8PzYoBCt4knyidguZtpahz8LCeUdnevc47Bxs2Bwv3WxOUuWE5pled8YfKJocN9bxbAQ1OGOsqi4podjHTQ7BXWXr4zPGquo6YLWtblrJa5LLz2DTxo4Q40cFZ2p2BptgZUd1W0dxctk0iU2wfbDnFyl0EptmdoQYWa5gHN2TDxOXX+awCYZ2tGnuKM48JpnHpqUdIdQKzQ+VtCrqvCjcrQHkOyxLOSVt1xSWdoRQE5o3+loDG6sPCmzYNN/Jtn/OVDfl88Jp6hp0NpvGdoTQKTTvnM7DUspnPZ6yu+EZ2xFCQShd189D/eDnUfBnAfZ2hFBM+RPkeQLs7ahuVwKrk87LD/hmvfZwaCqF9Hywjs3cl8QKZj/qNLgb3cQhhebHhXVDupYP7d9ko9oY7tzXu2/yks5EWB09CvFkKhHv28jGeAk1xkuoMV5CjfEDsEP1sS6MvtwAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1104006_NO_1_112_1_3.html">國立臺北科技大學材料及資源工程系資源組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1204001_NO_1_112_1_3.html">嘉南藥理大學藥學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1216001_NO_0_112_1_3.html">大仁科技大學藥學系藥學組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立臺灣大學 農藝學系', '國立中興大學 食品暨應用生物科技學系', '國立中興大學 農藝學系', '臺北醫學大學 保健營養學系', '國立臺灣科技大學管理學士班', '國立屏東科技大學獸醫學系', '國立臺北科技大學材料及資源工程系資源組', '嘉南藥理大學藥學系', '大仁科技大學藥學系藥學組'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA4ElEQVRYhe2X3RKEIAhGP3Z6/1d2L5wcUQR/0m1mOXdFGpxCi0IIcG4+v07gXbgOhutguA6G62BcrQARARD3naFQPFNQjFUm7Jm2HmhO2ELWIdawEjJLVagvyKslIiIyH0AnQrM87kJh0QUyKStpJIS3o7jBeiiSQvmT1EelyvXWGEpD59BSGt/noVw7+396mRDZriPcpEN098hhF1B2ljdQWBOXzGf/ubbrmEva3Il3uMCZZkG18i+WsckFAKonrRs7XTMXKqL6N4L5dddad1rRIWuCjn/G/1kYroPhOhhfhreZQlAyXccAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-1www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_015252_NO_1_112_0_3.html">逢甲大學 資訊工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADF0lEQVR4nO2b3XasIAyFA8x5//c97WgvsmRF5CeEkDLW76JrulTAbcLOgOP2/T886OF/ewB34xFUmUdQZTiCuumjuBEvxjkBAAA2gK3ayBtgb3VUP+cOcARtRqg7/lbE+ith3kz5eEIpPB9ONCMUI2vlPHUA4ZwBX7nT/mn0lW35RDNCcaArh2ewmk9YUVWPUHeO0FB9AOGwL0F37SdfwBvOzqyoqguK8u2rprwjI4SWst+iLgIJKQVBkwl0Kygbqkf55/RC77YZp4J+HWmWe3lFUHeZQEuhGo6jlWeoLqgnar559Z+giwjXRSpzYjy0YL47k3qOhidXhIqgK5fi3VNbP9TuOrooCWrpnr3Qsb1n9oL0PbPS1HMVul4zwVjZBOzKKUn2SdORxI6QrEZu4fAMZy+ahMSOkGzIZFUurTbhHdosI9kkO8jsCKkImhR32Xb9schk8N3UJtlBbEfx4gROUZlcblNX2SQ7iO0ouRiJUcBpKBzhOfX2EMtkF9oR4nP/cp6Mtw1Pm2SHETtC6BzKD09HKiTfKqfqcKqll1Wyw4gdIVQL5uzpGPWmImbJDoN2hNAI3QBCa9COTJ378TyyUeYP3bNHHXs5wyzZYdCOkETQZpxTIzIo/o2TfciOkGT6q29bxtszCBawTXYYtyOEmXc00ysb9LpYJjuM2xHCFzRm+rWz+oaibLvRrIxHFOwIYQqKfZhtLvmzP/RO1sn5nDEr2BHC3zkodbMX9r9GXN6fP/fWuUnLzVJXx46Q8bfvZsSs8eKhjh1d2+pl2TXTXnTsCBnfLJwRoYL3Hl5El67L1ewojkMMjqO586HyUtE81Owoaa6XlbdJ+GjaESKO0GaRGN05WwMYr7CU0LQjRCxoXOgrPdj98mFBNO0IkaW8I19DPxdlO4qNCogrpx+Nsh0ljfKh3+s/F307QgSC3iw8QXfi6hVUa6fTcoMvi74dIV0uj683idWMfelbQf8LyrIXmtt0Reh+zN+yR7qdX9o3W6g2xdn+vHv9H+mMMuNN6gp3lhJ5fo2szCOoMo+gyjyCKvMDDW7Qvq9FeZMAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_036262_NO_1_112_0_3.html">國立屏東大學 電腦科學與人工智慧學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAxCAIAAACNhrrVAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACL0lEQVR4nO2b0XaDIAyG/6B7//fdquyCIydQRYix0DbfRY89Y+o+CYbAyPtfGHq43jfwaZhQZUyoMnP6tYtfD/ge172FTOjU4x5WYJH+rgPWa1cngLZjzz6FzOdNRsQBbhMhE8rPkBEiZpWZzYT+CU4BAHBb7xafofIqRxbqmc5GttBnHbAIntZb9FAVj/xsGbEnZpeYAGodjgYXOut5zIhBncV19vDc1rKWwYU+2wwK6ILoIOjIUfgRHxba3nuDC41kL4ort/2oaLOwZ0ZNTgcXeumFe42VJZGfI7SmN93EKsvKbeqpjAlV5jTk3Sa9Y/R1p2EErxlDb8oEB4f/1Q1CLeSPiGbaEnsTuotjZtqm8yb0GccSpsKcap/B89BXQtssPo6ekkKtutCflsa+X/JQLrusWvVQo1w6OUddqHgxYxAImIAJ8MAi6KTqQi+u8LyM+OCJHVD6dRYMo18b8v7pIEBpzhReUw0DvaVNGSHSH+m6SEPZyYTu4tNIb5h8m9Aj+IyT6kWZ0AL8BWtCFZAk9iZUGROqjAmtpDb8TWgBLseEKmBCT2jawDOlhVETugNV7GUMTOI1pcGLIzUd6qjNbp+KTnd3+BCr20faKs2DC625vaM2ha2/xGaTR5tDISs2Dy5Ul7gVklPo4JLlmTk9LoRY5WJR05oS59a95IHgqLwf+up+v8F76B2WYxQT+4TKv4AgFfouqxda6BjM+Gaht/BVeegrMKHKmFBl/gHPEn+GFy9UYgAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_040132_NO_1_112_0_3.html">元智大學 資訊傳播學系科技組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC0klEQVR4nO2b23LrIAxFBeT8//+eNnYfNDDyBSELgSHxeuik4wtkWxvJQNy6/ocHO/zdHfg0HkGNeQQ1RiKoa96LD+IlOCcAAMACsLA3eQOspYb4cz4BiaDFCHXxLyPWt4R50fLphFx43stwOaAYoRhZo/nUA/jYN/Mn7QDC1lI/8ouFgg4SnlTHdoSaJnhB3TZCA2uxENOXojk+BPromNqqaogXFOVb77P8q282c+Qrg67pYoQCUXPJKBvYo/Jzch2g4NN1bYQO5Csr788I6g4DaC5UQzzKDLU6QRNrvD9eLqn2ruKJmm91E8xlabi8McXvdGyHsyoQ+Qi9nd9eDVGzVwmay9rdsuoI0C/7rrxXLkKPQvM1E9SVTXCpeDZlZ/baseVUo0Y5dEzCNhfVchoypyrnZpuwQ5NOI1maHWEE3dVip3r5OMk0yLvpJYzNjpyOlSDWiL5XTIex2ZGdoOmhSdQMMTzNetMRe7On+x7/lYSnnzw87c2O0DFUHp6OVEi+VE7x3FItvVqYHaFaCEdPJ6g3R6aV2REaoQtAKLXhyNC5xudxGmU+6n561LWZ4JDQyuzITtDi1CdNRDMW/w3NjuyGP37Z8kUm9GbMRW3Njgh9R53OLNAPTluzI3JBk9OPXfnHXssf7UaTMv6IUNAldmVGp8O2tlMsb+zO50SQp9qczdfMNPBQWd5vP18tnHdd5Wrn+p0XU8Rsv4KkRtAZy6bm1PtuighVvODSLQGWW3EYsL3iyscgWb4Tast/1TLJBdQRWqzpUjI9rQFmn2HJohY0TfTlxtD18OEr0FnekdfQhw26CE0zp62RDNO5c+5xhkJQ+l7fGkn3dHtOW6GwfLfwnJKrglqtdE69wMdxyfK4vUmtZmorjXrFnHbXhidQb/y7FKGVuzWX7ab9eSeqOVzfn3eP+SMdSzovPX6ylMhwv0SbnUdQYx5BjXkENeYPkvep3Z8Ovq8AAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_151012_NO_1_112_0_3.html">國立聯合大學 機械工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABb0lEQVRoge2a0XKDIBREryb9//9t2tCHHR2DU8HLRljIeUomcHWFHBJlCuHbRmWufQI1+YQflfvr2yrXIpiFGseNw99qnMPT7LfGcePw7fDFKPI4/jgKn2j9P/Mya9wV6KS/Sh0L75ls0ey0/3H1uplNZmYWpMM7/D8tyXO79zTtt1nSw259hd8O+1gjP2/CZw279RUeZKku6iPNadWBpO3n5QL51p5rOK06kLPUTekmlTmtOtDBtPeobu2pjkd1UU9RnKoD6uGdqgP03/an/oeH4kXEqTogPfJ+1QH6yF95Q8qvOkAP7zkJF0WqA7rTvkh1+xJaFKkOiIYvVd1aRZFS1UVVhCCoDiiGJ6huX0gFguqAXHiO6tZaWnBUF9WSgKY6oBWeprp9ufahqQ4IhWeqbq2oAlN1UcXGIasOqIQnqw7cX18fPJ/IvDnn3ktzvJ+FrDrQ7OaEiLc8LNuGv+wOVCsMHV5FeG/hE35U/gCCb0do1knb1QAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['逢甲大學 資訊工程學系', '國立屏東大學 電腦科學與人工智慧學系', '元智大學 資訊傳播學系科技組', '國立聯合大學 機械工程學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA9ElEQVRYhe2W0Q7DIAhFYdn//7J7MBpQRLDOmYXz1PZWLbcgYkoJgsLr1x9wF2EHI+xghB2MsIPxHgmICABi33FJ+UlDM1aZ0DKtspy3b8p2iDE8kaahKvQvUHcQERHrNV2LSkaEYtnuhcJDL4CYkq9p8FQyImSHMsuaRMMAnin6qBrkqDR0pjXYc2grzUnr+l3GYMTXcplYhjd83Y5UqLdgrpE1L4BUjbeEr260WKi3jQqqZXv2jr2sJe20E69NO+VEsQD5RVvCGE1CU2ltLaEt99lFO/mC1Kj6IW16uhslv6h6ffedUv6eq7fS84QdjLCD8QG0I7RG1PsS+QAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_032142_NO_1_112_0_3.html">國立臺北教育大學 兒童英語教育學系(公費生)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACNUlEQVRoge1a2ZKDIBDsgez//+8esg8UFCoMI4dATD+kkohK03M4g2TMN54KNXoCI/Eh/1RIyFP3WQzCSzBGAwA2YGMv8geY3I34MXdDQj6rPLlPhtiM5pM1ez8gJftYVMWsrPJWsYlsFQCgAOXmVq6KkPwksoecG4AnT3vlNWtm2oXGgtv9sGc15pydjb8rADPO7F9dI2VWeQTMt8QqaPaofExqAiGsEtRkURjydHL4lAlod5QJDWXkPYy7vj1dkqHzYK7i3XtgqD9wbgxe+eH47Xr1VPTuEl1nQ0r586LweQ51qQ65bNcFUT5tYun8iEoRXZFUVacBmq1cE4Ihb/b6R7kpV8xN8vx7DVHfhpiPX6YlcSBP7h8Jc+1k/2s/r1ugYj8lsqvVZcfe5+WyU5DVVF1HYUCG8wjnLfR2EuTzNRAqvwE658AUuLpxaxdVT7k1ih6lVsVJDQ7ks6V7GOSWfxA6uCvffn0FRe7Ccc5DaHuhtTMN/MUgJ++t/az5F3suf3QkhOSt1AObeV0gD7kpUzeJlsMC0b5+l3ZhW6gh/26prgALK1/jeFb5bPdq3mhfrPw7tLqKlfebOalawFd70VwwRXVUTN4XvymfN6cv06HM7Gnp1p1HmfK+8u8NSVhJjclPr4A83di6k0yvbM8fKDL722TvjqvkW3Vsp2h+XjJ7u11XzNzfy3tpNl72bW9eUr5yt3zbv+QzvilC975yPteLbTcX1bPQtvi8df1UfMg/Ff/ZboLIzO+xMwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-1www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_041022_NO_1_112_0_3.html">國立中正大學 外國語文學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACIklEQVRoge2a7W7DIAxFDcne/323NuyHlcwYiu2KDJPmaqq6iaac+BMvIaVv+FTF0RsYqRv+U7Xmvw65FwkgjfheDr+M2MMG8DR+JJDXRF5tWuUljhQAIkDYsanQfWw3kcH/vLutuHvN21doKwAsNWa6AH82gE150SkSXpU81ZIFrtQGr3+3Z+SpZlu2Bi0qh4B/yzPyR82ry7/HZoz8LfKsWJA39Mz5p4enAJpMzowvaCJ4TSW3VXvn8OfqhhcWrOMqInVjOYFZw0Rj+Wo7+T+iAJqt0vZG7vOcu/1G+KO0W1YX+1h+rKgBl9cbjsTs2hPOFPCMn7XurJ9HclXN89/bww5z4KF7Y5PPYsFADifAf1kWix3roW3nP8YYoXBb81DEv9sfenWqQT3t46D+ljfvQK32PGPZJxmGDrc7vHaKYlSZ5/GLQn6MjybnnyLhLc2sFvMKj+9VqcR/zFNyxH7kvr0VuSAojeocPhbkyoRX1oL61T2Lbk8s4Cza54ankaxM43SZbHzP8LSq6YuIYYw3C7y+el8E/nTd8BNIP0oyBItneOsMC3UReJa6lANM1gi35Bk+5UW7/S/qco3cGniGh7yrw469egsQe80HmPLZzvmpDhmW4twK+U0pP3WRU10qjnGoUEsEaT/kqRTIE5irpaJ0l/g8Szvsqw8tCHLu9lSHM4c8tsE0uqKi8CdNoLqr23N7M8J3k/+Ed6Ju+E/VL8BokWIqxG6IAAAAAElFTkSuQmCC" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立臺北教育大學 兒童英語教育學系(公費生)', '國立中正大學 外國語文學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA5ElEQVRYhe2XURKEIAhAYaf7X9n9cGIAEUzLbWZ5XxWF+ow0LKVAcvL5dQfeReoQpA5B6hCkDsHRCyAiAJjrzqVQvaJQzzoJR9LSdbMtP7PC1tHLOx0Kh+rQ3sDtICIi1uO2lTC5wiiW2104LLoAJmWi9Rbj7XAamAtVKMTn0H+KRm6WRkhYgy2bPqX1fb40k4OD6d024QI26CgndArDNbLZBTgryxtQ1uiTyaM3uoANOuY6F67ET7iAPcUCbJ4Xu+snWU+OvaQcZ58zElJRf5MW7u6cvdYjOv6Z/GcRpA5B6hB8AUKSqzwPXghtAAAAAElFTkSuQmCC"/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_012162_NO_1_112_0_3.html">中國醫藥大學 生物醫學工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_026092_NO_1_112_0_3.html">中山醫學大學 醫學影像暨放射科學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1204001_NO_1_112_1_3.html">嘉南藥理大學藥學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1216001_NO_0_112_1_3.html">大仁科技大學藥學系藥學組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中國醫藥大學 生物醫學工程學系', '中山醫學大學 醫學影像暨放射科學系', '嘉南藥理大學藥學系', '大仁科技大學藥學系藥學組'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA5klEQVRYhe2W0Q7DIAhFYen//zJ7MDYDEbA6ZzLOU1uUylVAJCJIKq9fL+AsUg5GysFIORgpB+PqGRARANS+M2QqXwRiruFQHSB8thNdhz10OdQYZkxuqAZiQCsNIrobEERJluVaGIxqAQBE9Bl8eb6HzWgBqhzif/OmAlbisyJnXoxxl2GzqZSW8yx20p0CXpY9rhE9vi4HVe5XCOeIHeeovhGObrQiv4wmtUqRbqNdxbPzPNqJV7EjWaCp/DOBiXq8VilsHam9bcYkrPYdIXK7M65hQYc9FDn+maNL6X5SDkbKwXgD2IelMujQnaIAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_040142_NO_1_112_0_3.html">元智大學 資訊傳播學系設計組(創作組)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB0klEQVRoge2ay7KDIAxAE/T+///eqnTBwATqI0EcQ/QsOnZqLUcDhBT0/h+eiru7AXfyyj+VMX97y73wAP6O3y3lhzvasADM7JMRAOOxJ681jMenqMABOKJNCYGzVNwFbDTVuRg1nxZXowzszjgDLKJL6x/wflvoN4aJQdptewn7FNiFc9EdXDyThX75ILPlEz6iXcPx5fWH/cSQmUlEIF9KvzwTeoMeLc/FjHwNj5Y/HO1dvEHT5W1pBjfV40x1q0mlNmgjufJmwj6JCJIcG/KOiAiGfQPyjqT0O7ngCvrT2y0wZvWpt4vqAgAXyP9JTvbsSWTcHXeXuvV8v08+sL/sOaC5vCzwToNxGe/z5Q2L5vKVD+GIdE+RHGD+dpR2+17C3v8cBDCf58IQyE1Ge5/qQrRP+XqeW8zqXT7g82jn5uM25CHParnFHDPyUFHMsSQvTnIsyYt55Q3C6gKW5KnLKy/5gjZQUj4c8oW9BXnm/9NDXQ1P+cIm+a9uP0BSz0kIqhrK5QNIMla6gCkQFzY0y4d/4wvJrVGAXxEj1yLbUvbrZFeztZ9lZzcOnNmQA7qffCBFMpJXOL8VC3L5iypQrWhgW9CRfHs0z/OX88o/lS8QU3NXXkv6JwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1102011_NO_1_112_1_3.html">國立雲林科技大學創意生活設計系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAxCAIAAACNhrrVAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACTElEQVR4nO2a0XLEIAhF0aT//79tE/vgxEGNigkkbvE+dXdco6dAEDTOfcMUn+zbC/hvmkCZNYEya40/vsLXAbg3niuiBOjyxhp2gO3qby3AzrkWMAAGfez+Z6/tISPKAthj5yxA8YS5HMBOfFAC9OfGgpZ7MxCfUtn2NRmApTWnobvCR1ioBMcwcx7lsI93P3RwoKsMR6+EZsmvbRZYaxocaL4N/5bo2GFBCc2t7NF9MXpwoEHusCDvj/eXHRJEB7Ax5m2DA004cgm/hZgnHxzor8CcBpknNRmiS+HRE2+ZmSaoBCrl7F5Nl7cHdAnve142BsovSgyVywSfV9iLVEVGm8tjoCJSBdQ8AHTwtIlXSV0Oy2a2tV8LCxPoUnDT5RjWd45iB/rVM9i9nTw0iy++uNeR/6u1UEAHUJd5N86uPFOq+7MDvdzMeFghaJ42YPas8LwQnYkdqEi2LCBPs1K18+EoxATPt20uqtImLEOLjJgg6YCjFqijRSccOg0Fl2agRGErbhvpBNo1cgKN5Ap/03/VliqgT0gV0FsNd6LUApWSNqCBKX3jlRrViVQBhTipJHp9X1NPG1BMhLj3vq6JNqCJ1ze3v/Y29bQBhfjEWWe6xOb5H64zUsJc5ZZs6fv94BhqdHtWD7UxTWpZcnCglOWVxlSu/no6wTY9Pvy+wurrggwOVE4JUyhY+q2eUr3BQmwWdfWUsETvkp9qO3z/NIXquFePNbiFSlMOwdH0pkclYaCf0r2QENvNnAmUWQrzUFlNoMyaQJn1BwYajY1H3shlAAAAAElFTkSuQmCC" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1105047_NO_1_112_1_3.html">國立高雄科技大學造船及海洋工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAClUlEQVRoge1a7W7DIAy0IXv/993asB8I5ASwzUcS0vQ0TZVCgeNsYztF537hqTBXb+BKfMk/FRryePguLsKiGGMBAGAFWNlJ3gBOWogfczY05EXlMfxniM1oPqLZxwEl2W8MUXmv2IW2+lP/lZdyw6LynvwHyg6S8rhV3rKHZUNobFjuT/riIeDJe6pujhDtAN7qkSqIytO51sK8ln2qHyNisAYMeUwcvmQCNjxlQsMQ8oPB+HB8NNF2x4IhP2NaMhYl8uYJ5Es+nx4Kf89B31UHl9x2WT74BNmhIEX2REpVnQXA2co1JRjybqt/lpsJxdwt89+sb4OaTzymW2KnPAY+GuY2yK7MOvuRRqKuc9+Rj0quUmw3p8uOOSd14a/F7+h0etmR3GqmrwvaecPFi8mwjbY86L6V3o6K+/x8oC7R2IAqvwJYyYGRuLoLZ5dVz4StZJ9mbTiLkmlgMFUaCPx+tDFoR14s3WmQuzYRiq4e9fAw+hCwc1e+/bqQInee680lTTttDFKOw63mE6Y0lL82PVc6HhLmqeZ8g7Wh/doGtzV+2fOV5Ncw+zzWnoLmJiOVh7Kpe5dLMSra61EtTP9b2pltQUAP+dvX/I9WvsfxvPJiUnlatBe7D3s0Kz9hq4tyUZFvVj6+zCldp7Hay94Fw6sjJOS16W0z+Vj8ls7YJR8OBT1K7YptZh8TvqPz3EX3En0hPljRWWpTPlb+RwPD+4JsxYlJK6Wup9ZAnub554AGCFq97FAqPYpoIH+a7FmUrpi1QYxa8qM6tsrm5yv0akqcY0ujRYwq8jb0SdqYx7UiEzFe0rUwSWN6ra+KfNcxhx7hbqra1UcCz/3J+eU/bNtgeFHNYxbaHt9fXT8VX/JPxT/5kK25cw9y0gAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['元智大學 資訊傳播學系設計組(創作組)', '國立雲林科技大學創意生活設計系', '國立高雄科技大學造船及海洋工程系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA6ElEQVRYhe2W2w7DIAiGYdn7vzK7MDaCiHiYMxnfVVsKLb8iIBFBkHn9+gfuIuRghByMkIMRcjDeLQMiAoDad4ZM6YlA+BoB1RdEzJZjN2yNLoeaw4qpm6qBeKGWBhHr+N2wKkqxbNfCYFQLACCiMvl0rUo2gSKH+N66KYEZv5dnt7fKc268PHSUpv2srqThAr0q26sFHJCDMs8tuGvEzqrWd1ELuLzRivoymlRp8ni1aDbaXcyt2GgnXvEqOVEssHU/i/N4PSAL7unYrfnHaRJWe0jzTHffG8MUOf6Zq4/S84QcjJCD8QF9vq5Blq7eKgAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-1www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_009162_NO_1_112_0_3.html">東海大學 資訊工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAxCAIAAACNhrrVAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACaUlEQVR4nO2b23LDIAwFD8T9//9tY+gDAyNjTCQs17iwD510QnzZSBgEMd5/Y6KHvfsC/htTqDJTqDLL9t9b/HrA33HeS8iEvu64BgesrZ+1gDt9AYb8PfvtLp+b9IgFbFTQLNTGjDS7tzywtpnNhP40HAIAYGN0Nx+BeRZbun8pBnhVj2OApS11HhGhWh4DRZs+vpWd1wBv0dE7F7roeQxkNj3gtp2GIV1Bai+I086FFns3D5hW0dRmMaND7+lISxu9s3jKODTc0ht4nxsS0NisHCczKLDUeYT6eG8qA9XkxTN6RhfTH/EFK0g7Fyp7IFQx2/Dk4LadKYunpPx56J0yO0Q6yJ9Cc6gRfgeS1HMfgx9TPo0hFLPvQVD1hvNNcPpQ3ZHgc2F5GCfl/4gxhbbl3IzQDVlvyESsfkyh/LsW+1Ef2H9JGnNmLFo4MvVkznxaSlzjRCh20/O6LNMmRz1CmysXf0AWpK9d7S6RKrDFOmkNdaHnV3guZSV1ueDU7qaYaVIUKlIyRZ0XR9TxW6c4nlPuq1ysCetQfWggPAnrmZTKzGJGi9DECqyxo8zqJu6gyMSK0GGFBkQxOFNeAXGETqF16KqJ7AOTItJVkym0RsOqyRRag+b7jNCz0Mm+YDAwhR5Bw3MKPcvSFp4YT+jHupHZ2ZQJ7XymxKmbHbUpPkYWMrnMGmT77vBp/1OZzoVyLu+ozdHWX0N2vlc2hjRuVO9c6NVUCneNhd1l+7qSYszFItGaEuXSveSJtbr4cUploPMIVbecfO2rdjo/7aFCO1+90OWqH0cNK/QqRhuHXs4UqswUqswvUK6LhM8XNXoAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['東海大學 資訊工程學系'] stuno: stuno
+data\test_location\國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-www.com.tw.html
+hi
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA8ElEQVRYhe2W0Q7DIAhFYdn//zJ7MBpAwE5rZzLOm97awq2gSESQVF6/DuAs0g5B2iFIOwRph+DtCYgIAOa585VUZhTtAaWqd3K1/9xchDG2HWYOK9KVoBEREZVTZagk/i01H4cxxCiW273wICKeScscOqe4xFU1PxcGx7BDRbkuFbASPAA1cy9/GDk1DCPmoVZatnT/M5vaVzsvE5hqBBNst4MqbQhWB/W2fWDiDg46aK/3jn1styPuFxMEbWWdJ4oF/KZoVke8ql9+Y1vRhzZYe9K7NV2UlBpc0tavYXEYQww7/pmDWukJpB2CtEPwARiH0i0WELu+AAAAAElFTkSuQmCC"/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_043162_NO_1_112_0_3.html">中華大學 資訊管理學系(人工智慧與大數據應用組)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABb0lEQVRoge2a0XKDIBREryb9//9t2tCHHR2DU8HLRljIeUomcHWFHBJlCuHbRmWufQI1+YQflfvr2yrXIpiFGseNw99qnMPT7LfGcePw7fDFKPI4/jgKn2j9P/Mya9wV6KS/Sh0L75ls0ey0/3H1uplNZmYWpMM7/D8tyXO79zTtt1nSw259hd8O+1gjP2/CZw279RUeZKku6iPNadWBpO3n5QL51p5rOK06kLPUTekmlTmtOtDBtPeobu2pjkd1UU9RnKoD6uGdqgP03/an/oeH4kXEqTogPfJ+1QH6yF95Q8qvOkAP7zkJF0WqA7rTvkh1+xJaFKkOiIYvVd1aRZFS1UVVhCCoDiiGJ6huX0gFguqAXHiO6tZaWnBUF9WSgKY6oBWeprp9ufahqQ4IhWeqbq2oAlN1UcXGIasOqIQnqw7cX18fPJ/IvDnn3ktzvJ+FrDrQ7OaEiLc8LNuGv+wOVCsMHV5FeG/hE35U/gCCb0do1knb1QAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_050502_NO_1_112_0_3.html">實踐大學 資訊模擬與設計學系AR/VR體感科技組(高雄校區)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC4UlEQVRoge1a23bjIAyUcPb//3e3MftA0ZFtJAbsgNtkHnLSmoAG3TEc4196V4TZAszEh/y7AiHPL5diEh7AmIWIiFai1Z3kSRRrC/ljRgMhX9U850+H2B3Np0pe/MJS+2Cw2seoPntQJc8nF7gIgSgY5hOJItHaISRIfqLal1pUTrYQiJ6tcvrkeat5X44lh8aO5f7ZPzmuKBreGcJCxETPmgx1afTC8QZmL4a9k2TnDiGPhFDVPKn1LL9a3Kf4mCKim2XTI22S4RLyfHB4ywQWJaWFbvJfwJinkpZx/o4Py6PpNo9As0VrdmfcHcsSGz35yCJvJdVfBcvnj5tSzbdnUh252e5VKPLhH652NEgVVVHcESvfSGkxNy5qbV1APgIzhtzMTW97dG5ChSn6Nj6FbNNchL7uc0ee83+QKZas9oZy+gUIKtA6tWABO7MXTa612B5mq52z04lvrq1q0ORxtbPa7IBXVCWAGe7hJqD1fD8PejsD+XwY/LanAk0+tUe+5bBy9Zh1XtSeuGLxKWPHh1VwLq5iR7rdka+27jrIjSyERCWsvvD2z0er2++23z9+XVSTG8eSj4cvIpUOOikEIl3w92gEvNX59JJGkOT52p5toSEJdDxWzI/W8cf9rf/0EiTBhAtqkiD5Na8xvZizoGsT9DAHD7nWXNHwsTHRXmPdOn+d/Pm3tPexhWZJzpD/0T0/0e/SfDPOOF7SfPX0akC0PwJSSbfmb3jUpblA5Ls1Ly9zrHJSCq9iLnhFdzSOvDS/1jJWQYqj6e34oiwRbW/7zF4KvpfWuQyclyfoYZe9qHQWoyFxXvgXrx/Im3kdfRpONTrI6zp/DIQk2S/nqeNgo4P8MLXHUuNspRiryvbQSv6qE1vk8DPxcW7j0JkLOdRIXtyvj/mx5URMVCyZ1Sedv4pFjeRPbXM+I9xN1bQ6XetuPPbK+U0utn3j8qbax11oJ3xuXb8rPuTfFf8BgJ3Tvv6vx7oAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1223005_NO_0_112_1_3.html">元培醫事科技大學醫學檢驗生物技術系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中華大學 資訊管理學系(人工智慧與大數據應用組)', '實踐大學 資訊模擬與設計學系AR/VR體感科技組(高雄校區)', '元培醫事科技大學醫學檢驗生物技術系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA+0lEQVRYhe2W0RKEIAhFYaf//2X2wdFBBMJsy9nhvOUNlFuiSESQVD5vL2Av0o6OtKMj7ehIOzoOS0BEAFDPnSmpjAjaC0IVObk6Tqcuw094im6HWsOKFPEOERFROFUehcTnskLUqFOUzXK7FxZExNfaKoehMC5xVYw7CYModoik61IBK84LUGuw6oczp6yEQczecS/tp1V/YP552yARcfumqroWBQ+cLFRpj6A1vHHc2hHxSWejYKuDNt47LiQM8nM7/H5xAaetrPPEZgG7Kaq7w48aw8XJqiYMohzL48e0bk1BSajOJe31a9jcLeXv2aiV7kDa0ZF2dHwBE03tL29LDJUAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_017362_NO_1_112_0_3.html">中國文化大學 紡織工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1206001_NO_0_112_1_3.html">龍華科技大學半導體工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1208002_NO_0_112_1_3.html">明新科技大學電子工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> 112.5.27 </div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1219001_NO_0_112_1_3.html">中國科技大學土木與防災系(臺北校區)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1250006_NO_0_112_1_3.html">亞東科技大學電子工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中國文化大學 紡織工程學系', '龍華科技大學半導體工程系', '明新科技大學電子工程系', '中國科技大學土木與防災系(臺北校區)', '亞東科技大學電子工程系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA/ElEQVRYhe2W3RKEIAiFYaf3f2X2wtFB/tRqy9nhu8sTCSdFkYggqXzeTmAv0o6OtKMj7ehIOzoOT0BEADDPnSWpjAjaC0IV3+Sqns5LI46Kse0wa7gizXiHiIgonCqPQuJzmeNe1BBjs9zuhQcR8VxbDaCc4hJXvXEetYRhh8jyulTASvAC1BqCOmOndFZBShq3d9xLW7TmAm7FiMXC7Vsq7FwUPHCyUKU9gtVB9bi3I4YUu1ejChsdtPO9Y+Y7q1GFn9sR94sTxO3zIk9sFvCbork74igdPjyA5rM1jmX9M71b06Qk1OCS9vo1bO2W8vds1Ep3IO3oSDs6vs3d8Ckj1jt2AAAAAElFTkSuQmCC"/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_012122_NO_1_112_0_3.html">中國醫藥大學 中國藥學暨中藥資源學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_012162_NO_1_112_0_3.html">中國醫藥大學 生物醫學工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAABXElEQVRoge2a2RKDIAxFA9L//98u0gdGJmIXiEGSCefJdhQ45Q5GrIvxDlbxowcwkilvlbD/OOS3iABxRL+l/DJiDCvAa0S/pbxGHMAC4NA3j8orC/nayw74LTXkFsgU5g1oX/A82RyUy7tt/MQlU7V8DjzxZqFX3iNz4s1CqbxDI1/JrSiVx4G3JY9X+FPVkTr5IvCn6uK/FZ7fOnue6YaP5fw6l6kpb+lVBDdsgc/NaYEz8AlF8pyBT2iRZw58blQFzIFPsD/P31pOjnU3kcAe+IT8me8S+AT7zLNvSHUJfIJdnl5pf6JX4BOSY98x8LkDsXQMfNGBNPhLmiMyt649mpXY/nBRnP81NWLl8XFrPGv342XG/qLnSJnyFyEz9oTXPgHlpfZy0zM/5a0y5a0y5a1iWj7sj3/UlZWbc017eJjr/88itMIjQHmbhuV5d6AUYFre9II35a3yBmg2OYEqiaxfAAAAAElFTkSuQmCC" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_030162_NO_1_112_0_3.html">長庚大學 生物醫學工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADBElEQVRoge1a227sIAwck+3//+9pA33IATlcjIEQou7OQ1UJEjwMxpcNOfcP7wqz2oCV+JB/V2jI03QrFuGlmLMBACxgxZfsgKstJM+5GxryVeXJ/xWIPfH4VMkHvyjJfj+I/XUjR6lKPqyxHMYrkR4i1+dQSvJrZSdgEx2HgBdggb3pvTJ5Oiu/idFh81djx3Lfog0pc+eHOAxAwE/Nhro14XUY9KsxRMxdEnSIuUOYr9W/qjwYc1vYhU0c1c/JPhWYZ0/14e2WzTR+j+oQyFPi8KUjsPlRYckO8uasuaCn8/zDgyrygg+HoVVnnhtQ9WTuDqRM24VJa9MSOsuuQXQX1FEib1aT54YpAy33SpXxJZ9PN0WOcxgLdUiiHbde73fB86mWbgMFPrRa9m5wtnUKWSmyO1Kq6o4Y86xyDcAgeac4e8afrueUPQ3I+jbUfMI2TUWfD9afisiHCKlhvnnZ28oJHdq8t30mkJAPSlbJm8my89fqG41tLUnu83rZ6ZxLjnRBS/WcZbkG6TLW5tyE2630dlLE80vAzagS06a0HFx5q6gHibm68+tl1TN+j7KjpOijROJv5XBrWNyBXv+IfLV055fcDYnQzmpV8llmlMbyjsuua8n+RzRVbr8GO2ySBUyCO/NHOft0Sb1cv4mVfkJnze9MaY56Vl6x0yrlISHGPN3RL/FZeVSJHdi9Y0d5pz17AR+qQEne+tetTeCbtL2MvLBwqc0yftt3oE358V9pH1XMtbXeRsg/sOZv63z9JeWbO18jjndsc7V7dcltrwE/83OVf1qriyf/2qDQrTzPKEvWHDubjQWXV0dc9unkQ/FbOmAu+WceXh2yo/fYh4Rvdp6r+SgkYt5gUp/yofKfjRdLYKPlKOmjNDfUOsjzPP8G8NtB+EGm+csEdJG/TfYUQjHb44Ct5K/q2Cqbn7vYwOqnfaCJfGik9DEPa+lv5sAtrWQvOHpN5F2uYaKHPXtvU7CYUk3TvZ+cP+fDNmBOUS3gKbQPfL66fld8yL8rfgEJst3G/BG3cwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_109172_NO_1_112_0_3.html">臺北醫學大學 食品安全學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAxCAIAAACNhrrVAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACMElEQVR4nO2b0ZKDIAxFL9T9///dVdkHpk7AogkEpcJ52GmnlNLTAFGyxrlfDPSwdw/gaQyhygyhykzh01v8OsDd8blViIS+7hjDCiy577XAWjwAQ/6W/rrTeZMWsYB9KygRSvuhOGDN6zkS+pc3LsC+ozu7B+anfPz+GRjgle7Kv2qBWdrvV0SookfP3qYjL9Fmk9Rp40InVY+eyKaf2lSoJZuzbyxY4htPm1KrW8m+Edlcwt4csIQGZZOjcaEb3uMMzAUpAUI7B9lFtCMJkp/Gp7zTCEnKFkDu7IdZAEMyKsMcQ+MROu+mZAmGhCenTxqkXFGNC9WFfllOjkmlc5fRroTS8OREqEukU0ecCrXA1PxSy0Q03/ctWU45EWoqJIPX8zGNP6WK0GcwhCpz0STrRyhlRKgCF0Wo+vb9I2nsMu6PNU4/EXoR6hFacufiGqQXsk60XKgLLT/haQ3Z4tvhlK+7O3UotC5DqDL9CM25F5dxwdqP0HKG0IDyCGUxhB4zpnySQqHcmqd+hCLjPCPjJn9XQqWnmNJDPW6/jyFbqKDGsSuhIE7NWT1IVLHDpVuhCIvCImwYngKhjZ8Pc3aPVJuPk9Tb2WT5MDyovjut2IlpXChneKk2qdJfL2hT5vWlEgBxWVXjQisROUWibjKnrGoKHx9MMeZhkehMiVK1lnzPAqyJqvD8Ans0H6FVLW9HhCbjiigFFfq80wsmmv8oNYQq01seWp0hVJkhVJl/5M1+c0oU2g0AAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1204001_NO_1_112_1_3.html">嘉南藥理大學藥學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中國醫藥大學 中國藥學暨中藥資源學系', '中國醫藥大學 生物醫學工程學系', '長庚大學 生物醫學工程學系', '臺北醫學大學 食品安全學系', '嘉南藥理大學藥學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA9ElEQVRYhe2Wyw7EIAhFYTL//8vMwkgUgaJ9mQlnp7e0cK0oEhEklc/bCexF2tGRdnSkHR1pR8fXEhARANRzZ0oqMwJ+QKjina06fs5Kw4/y0e1QazgjRbxDREQUTpWhkNpvqfNW1CHKZrncCwsianPlGmBwqpVa1ZpXoyIodogsz0uca8F5AGoNTp1Ozb47ER5qpeWntZaLbVJ/lqmq1qKY2+2gCg9B66DjvLUjfNaimI0O2njvsLild1yL3y8WON8gHJ7YLGA3RXV3+FFj+OEBFM9WOZbHxbRuTUFJqM4l7fVr2Nwt5e/ZqJXuQNrRkXZ0/AD8jPYwPoKEsAAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_026132_NO_1_112_0_3.html">中山醫學大學 職業安全衛生學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC0klEQVR4nO2b23LrIAxFBeT8//+eNnYfNDDyBSELgSHxeuik4wtkWxvJQNy6/ocHO/zdHfg0HkGNeQQ1RiKoa96LD+IlOCcAAMACsLA3eQOspYb4cz4BiaDFCHXxLyPWt4R50fLphFx43stwOaAYoRhZo/nUA/jYN/Mn7QDC1lI/8ouFgg4SnlTHdoSaJnhB3TZCA2uxENOXojk+BPromNqqaogXFOVb77P8q282c+Qrg67pYoQCUXPJKBvYo/Jzch2g4NN1bYQO5Csr788I6g4DaC5UQzzKDLU6QRNrvD9eLqn2ruKJmm91E8xlabi8McXvdGyHsyoQ+Qi9nd9eDVGzVwmay9rdsuoI0C/7rrxXLkKPQvM1E9SVTXCpeDZlZ/baseVUo0Y5dEzCNhfVchoypyrnZpuwQ5NOI1maHWEE3dVip3r5OMk0yLvpJYzNjpyOlSDWiL5XTIex2ZGdoOmhSdQMMTzNetMRe7On+x7/lYSnnzw87c2O0DFUHp6OVEi+VE7x3FItvVqYHaFaCEdPJ6g3R6aV2REaoQtAKLXhyNC5xudxGmU+6n561LWZ4JDQyuzITtDi1CdNRDMW/w3NjuyGP37Z8kUm9GbMRW3Njgh9R53OLNAPTluzI3JBk9OPXfnHXssf7UaTMv6IUNAldmVGp8O2tlMsb+zO50SQp9qczdfMNPBQWd5vP18tnHdd5Wrn+p0XU8Rsv4KkRtAZy6bm1PtuighVvODSLQGWW3EYsL3iyscgWb4Tast/1TLJBdQRWqzpUjI9rQFmn2HJohY0TfTlxtD18OEr0FnekdfQhw26CE0zp62RDNO5c+5xhkJQ+l7fGkn3dHtOW6GwfLfwnJKrglqtdE69wMdxyfK4vUmtZmorjXrFnHbXhidQb/y7FKGVuzWX7ab9eSeqOVzfn3eP+SMdSzovPX6ylMhwv0SbnUdQYx5BjXkENeYPkvep3Z8Ovq8AAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1102001_NO_1_112_1_3.html">國立雲林科技大學工程科技菁英班</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADpklEQVR4nO1by47kIAw00Pv//7s7CXtAQeZlHLAh6kkdRiMlDaa6yjgmbbz/Cy/kYHcH8G14CRXGS6gwOIQa9Si+CB/GPQ4AAE6AkxzkAPC9ieh7vgEcQrsKNddfgqzfIvMuoTEntOS5Fyb9qvx2B3QJDeE+zacWwLZV78kE1YUBcOng//gfZhL6HHmWq63eYydi7o5PgSbUpAp1ZFXgru1rYDqmBGxtCuye+UxNCJ8FmtBA3/7EBAAFmy1f2yKx8mHQkmFskK5CAbF5Nph15FX+PQQyNo+2o2eyk0NLHtQpQagpEmhLqu66SixmntAYg1IxaxGbB6+grI/SvbTd73iXGP5KaBipApEg9CGleLZUpXoDm12F0NnNTg44QiU28WKPybFamaIkmq6ZYK5sgnbltNjss1NUORouO8RhU0I14NK9aBZVyVRZbuWvEJDSzhvZVKqFJc0eQBCa1WLV9diryaQkH0yoxuCSZg+o5kpgc4SfK8RhlAkVNntAptD4pXHYdJc8xaIpgonICLWFFM6baUHe7AEZoVFxZ29Pt8ryhAahrWIjGouZzeXNHoAJ5cvToAqpFMst3Gg1AnwYjTvHqP8/GmaPQ0cws6dh1JsiyLjDKS9zN/ZvCI+wv5bZAzChJ4DrzWFQ6vSXNqsqi/2h6lVzs/tgkXvKCM+i8ewAftpDxU/J56vswe6nNwfeiFY2TUKcR/v79mnwLRspmj0gS3/0sWWMRukpkIDhdUYwR2W21TV7nIMDk2pz/RETU1A+FWm2Ol2zBzATmSGd/of8LH2VCf76T2R2LFKVMr4Ek9DzCmVXs5k/b/XMDtd2A8cb2f1UMPyttmVz39hP53d5vPIxQnEw+P+7hXMWKlU7z799t/2AhIN13cgZQrWjlD1wX4TBsz0EPYUKjnzrATcAP+ZKvopDIMzXPfkY3uU9SqP8V2u6PVxdDFt+zTEJLiqZ0y041KMwrNBuTRc302oNwOyw4C6i5dWP2qcmHQwTGlsVraB98c8AMtd3O2E48e15Y3DM8vHBaUHQWJV0CelSee4hdEyhsXO6APj4ILYUMmdk79/qPlzSGCAUP9evQZgIJ1Ob7lcY61uLCQYIXSnPiIxTaGz6m9mE+4RKnXQOHPAdl/erJdTke/ViuEWou7w2xmaca3gjjlMb/fKodYLSwS1C/SWEsQXgTqWf24gf8pZ6BWbtz7uf+SMdScw3R27hm6kMeH+NLIyXUGG8hArjJVQY/wEzmgvefOxxigAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1111001_NO_1_112_1_3.html">國立臺北護理健康大學護理系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中山醫學大學 職業安全衛生學系', '國立雲林科技大學工程科技菁英班', '國立臺北護理健康大學護理系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA4klEQVRYhe2Wyw6EIAxF28n8/y93FgTSF8hUURJ7dnqNtkepIBFBUvk8XcBepA5B6hCkDkHqEHx7ASICgPvf+SsqZxTtApWqe/LUPi5W4Rhfh9vDmWimaERERGWqHKooXMYhzmK53EUPIuIdts7BmOLR5WVwHB2qyvNRASuDC6B27vbP7YTLGHPTKC2fumqSp3a182UCoUEQYLkOqrRD8CaoPd8s9CSuYKMf7fzsWMdyHeN5sRt3LBboDEVlan6UrgPtM+zL7O2aJiOVDrYPk9uwcBmHODrezEajdAdShyB1CH6RNL0qgRaITAAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1104013_NO_1_112_1_3.html">國立臺北科技大學資訊與財金管理系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立臺北科技大學資訊與財金管理系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA+ElEQVRYhe2W3Q7DIAiFYdn7vzK7MBr5kWB1zmR8d/aQIqcFRSKCpPL69QbuIu1gpB2MtIORdjDeIwERAcA8d6ak8kTQAoQq3tmrOp2zjWCAxrbDrGFFiniHiIgonCpLIfm5ggEmRrNs92IEEfUVtspBOdVLkVzPvADTDrHLdamAFScAauVm/b07e3ukcWiUll9dFNmruoa+TSBc3ooXcMAOqrQlWBNUP2+FjUzULHoBVx208dnhI7pyao4MD9pdrH+xOOY5PZX6RLPAYCiKyRofpd8DdQ79d41uTUFJqM71IXgN83OJsCkTDTv+mYtG6Q2kHYy0g/EBH2nJNc1IYO0AAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_003282_NO_1_112_0_3.html">國立中興大學 生物產業機電工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1104011_NO_1_112_1_3.html">國立臺北科技大學工程科技學士班</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立中興大學 生物產業機電工程學系', '國立臺北科技大學工程科技學士班'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA9UlEQVRYhe2W0Q7DIAhFL8v+/5fZg9EoAqF2dSbjvLW3K3JWaYmZkVRev17AWaSOgdQxkDoGUsfA2wqICID63rkUlTOCdoFIxT37dC4XrGUtVUXXYd13OYq4IyIiEqbKoYisWpayOMpm+boLC2buG2idYzLVR2u1gig6xCrvRwWqOBegdq7239uJPP/OprbYNErLoy6a7NN56f02wcWusOQCG3RwpR1Cm6Dz+daPJdFhzQWOetHGZ4fPsgts0OHPiyfKYdUF9mwWGENRmIqPUoubLgDQ/OP5z7S+moKRSJ3Ph+BnmFXrER3/zEGj9ARSx0DqGPgAGQzMKrL7xYsAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_008012_NO_1_112_0_3.html">中原大學 應用數學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_034022_NO_1_112_0_3.html">國立東華大學 應用數學系統計科學組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_034072_NO_1_112_0_3.html">國立東華大學 資訊工程學系資工組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_150132_NO_1_112_0_3.html">國立宜蘭大學 電機工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_151092_NO_1_112_0_3.html">國立聯合大學 電機工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1105002_NO_1_112_1_3.html">國立高雄科技大學土木工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1107004_NO_1_112_1_3.html">國立虎尾科技大學動力機械工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['中原大學 應用數學系', '國立東華大學 應用數學系統計科學組', '國立東華大學 資訊工程學系資工組', '國立宜蘭大學 電機工程學系', '國立聯合大學 電機工程學系', '國立高雄科技大學土木工程系', '國立虎尾科技大學動力機械工程系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA/klEQVRYhe2WwQ4DIQhEodn//2V62GgUGcSsbU3Du7mjZBkRZRGhpPD69Q+cRdrRkXZ0pB0daUfHhQRmJiLz3lmS7i+KOkGpKmarBiU/4BTbDjOHJ1LEO2ZmZuXUPQxKfsAIxmHZ7gVCRNp/bVNSiQUlJ2AQww4V9Ll0wwVnApUcVCZKCm64c6gRsHfspa3nsYBr2mpvW/tQVmbO01WIj98sUqhDshre+F3Vv1lWaP/9VQ4HXbTBBlGZnoU9vWMvfr94EpbWz8KUbxwWAk1RORVspeOwjYACBjGu5XEz0aspKCk1/moyV6FaQ13JnIxYe6X8PQe10hNIOzrSjo437vPzKWZxuoEAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_003102_NO_1_112_0_3.html">國立中興大學 應用經濟學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADYklEQVR4nO1b23KtIAxNoOf///e0W/rgwIRbCBgUreuh09kql+XKhYDo3H94oQdz9QCehpdQZbyEKkNCKE4fxYPwJbjHAgDABrCxjXwAXKsj/p4nQEJoU6Ho/zJk/RWZNwkNPqEmz2thtAeG8bt3vSbVJBR9u0vBABg/NhVCaYM5HOvxIggJXUSe/LTHgAC21SbKTYEnFGOFWjYrsD58DXT3zT41g8fQcj5mao7dnfKEGt/BVSb/NTOaJWzW7NpkjpVDU6FA2NwqzFr2qvye2gAo9rfbMcMKEjY/dYvuc3cMoZg50JpUrb/K9D1GaIDz7e+PS7I9HsF3Od3smBkZ7fIqJDxqgUYh5cZ5hV6OnwltYpxcKycwtag9KaquADpl/XSwptCcaD5ngmNpE7QyJ0XMMvYdRY6Ox9BlYWJC9VGUTJHlmrvZHfxdykiBzVnJNUOoy8oExTuxlTAtBUroFBR9JYg5CtTfAngCoYlCQ0ohYdN6eX70xzUFjMGZTFvbmFtICA2K21ox3dxNnlAhtJa9BEvtCw+UULk8kWRI+bvtwmnZUhHN4ss+0478nxIq9J4oyDfXRMKdJdWfxLppdrXPV2r+lNANwLYcIhLX6bw2iyoL5ZziVdQocByBIeaYT3nLCs9WuA5O1mE/rfdAA9GNvGeOfeKfuoBczIbULhP3x29bBo8zZdF2LlDmGSndotWjMJ5grM27pPEMhNmei0XapkvoyJC19H/ss/zVqyC3sI0Ye1ukQkI3P4i7W3qAfCJ9e3byUFszc1cJfwtGeVqdGCO0jeOn7x6jWR0cIfR2NdNDG+5C/CmFnjHUI45sf8nNnY91orwjblR+yqxZFI4wrNCbbpPQpFI4/r5NvWGFhrJCLT0Oi+ViDnBVhYWWJY0st+/bNRkmNFQWan247J8VkFh9s7RG63siFzFm8mHhdMc1KFUlX8y1sTx1zofWeoJTpCdxc8wp2drvwfBDjSIxteQAZcc2zwChdF0/G5LhDZw53UdOnamJ4xVFX61ygNDT5DkVCadQUfqhPSUJtHY6V9jg+3jbL6ZQHefqKboItd40xtgMfcnj5uwtvDAX7E2Paugi9OBpTVpYdIslCWqVSTz38+41P9LRxMlFySdTueP9GlkZL6HKeAlVxkuoMn4BmTf0xmoEZV8AAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_034222_NO_1_112_0_3.html">國立東華大學 財務金融學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['國立中興大學 應用經濟學系', '國立東華大學 財務金融學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA90lEQVRYhe2WQQ4DIQhFoZn7X5kujEQRGKxOaxreTr9O5RdBJCJIKq9fH+As0o6OtKMj7ehIOzouS0BEAFD7zpRUZgS8QKjim626RbpFt0ONYUWKeIeIiCicKsMtUgTlsmz3woKI2rNyDDA4tSJNodghTrkuFbDiLIAaQxvkKMXj3HNZtsNJqyYwhy2SpbXPCkwtZLe7LB7vLFThIWgVdJznONUtYo2Y9Hc5HNRogwWCsRqcv8vncTv8erHyWfioWPp847KAURSFU8FSOg4jvxVEacvjn2m9moKSUJ1HWuRBZeWaumA2feZeKX/PQaX0BNKOjrSj4w2pkvYjeG8SZAAAAABJRU5ErkJggg=="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_007132_NO_1_112_0_3.html">高雄醫學大學 職能治療學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_020162_NO_1_112_0_3.html">輔仁大學 職能治療學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_026042_NO_1_112_0_3.html">中山醫學大學 職能治療學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_030082_NO_1_112_0_3.html">長庚大學 職能治療學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['高雄醫學大學 職能治療學系', '輔仁大學 職能治療學系', '中山醫學大學 職能治療學系', '長庚大學 職能治療學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA8klEQVRYhe2W0Q7DIAhFYdn//zJ7MJqCwLBqZxbOm72u06NSkYggqbx+PYCzSB2M1MFIHYzUwXhbASICgPrdGYrKE0HrIFLxzmu6JPqKrkOdw0wUcYeIiChMleaSKIJyWJa7sCCi61jbHKAzNR8FUXSIUc5HBaw4HaDOQcxERPuujg+V0rJpreVqmtTN4pQqCEgcYrsOqrQmaBW0f97m6ex5X+KNTXTQh3a0Cli7RizAENt1+PVi5rWguZj8rycOCxhFUZgKltK+KbB+FUE5YL1g69YUjETqXNIiFypr/dUOo0fmTr35Yw4qpSeQOhipg/EBPPvzKhfyutAAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_015342_NO_1_112_0_3.html">逢甲大學 水利工程與資源保育學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACuUlEQVR4nO2b7XqDIAyFg3T3f7/rKvvBA4t8hAgRwfH+2NNNG9nxBNJglTHfsJBju3sAT2MJKswSVBiOoOryUTyIF+McDQAAO8BOBvkAmNKF6HOeAEfQokOV+0mI9V9sXkx5f0LOnosDRYdaZ42cpwpAHzPgfWPAokNt3JHtqaXnk6aAtEPV0aGavAHaLV8Vl6v21CatZmtA2qH2qBk15ZX0CAUCFh0KKPSeuYwmj/LPOYtGIxTxqUBAQlAVTaC5+6bdUWKqFRd0Q//8h1f/9QhIpLw/NGC+K+l6TiwgIejIpTjOTRFBxQLmBBVfPQXBY/uMFjA3U8RC0zUTtJVNwK6cgtxsn46EAyY1UgPbUx+XjuECJi2TVDnXbbID6tNGGjrZLYSgQS2W1GtzTaYOn01HT3ZLcq4EtkZe+g6MnuyWQFB/0zhqamdPsdHkmSDZfdz4V449t772FM9N+WS34DmUb0+FKqStVE7RcKqll3Ruigf8A2vBnD0Vo94UZJpkt2CH7gC6dA2Fpk7j7kfSZZvTPXlUsbsP0yS7JRC02AfEC1GH4n+mZLcE0x+9belHc8m9jZgs2S3MvMOZTmzQyzJZslv4gvpMj4fyRb6XPppjjjI+hino7obSrerE7e2zk3VwvrkgYBZ+oz+X5gbgJ/X3llV+O74+W+cGkd8XBMzS/vTdFZ4Vrx/6dSNbBB22Z3on7ZuFVzi04rmHF7rB8dvFA1Jvq8Zer7jzUbfKz0p1yo+8TXIn1Q4t1nR+MU3WAJ07LP2oFtQ3+nJzqIle/AvqUl6hj6GLA3WC+s7pIqRCUPy5fhFSIeiyJ8VZQaV2Ontu8HXl1CpvH2+qVtNfyxewgmtasji7IeAphxq3stc5az8+tN+tUd0V1ffr3eN/SaeV9ubIKZ4spWV9G1mYJagwS1BhlqDC/AIB9sPWM/fNqgAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_017352_NO_1_112_0_3.html">中國文化大學 機械工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACuklEQVRoge1a25bbIAwcgfv//9smpg8uHGGDEBgw22Qe9niDYxhGNxSTc7/xqTBPL+BJfMl/KjTkafgqHsKmuMcCAHZgFx/yBlxpIvme2dCQLypP/q9AbEXzKZIPfpGTfT6IbaW7Y0pF8uTneBYEmJg2hxO9Mgsl+QdlP2jLgZkAC5jamEJihUd+d16A8xOMwJ/M58YLzsHpXQ3hrZdKVt74yZ4ye8uuD9t2F/IUb5DRL1gmf3L4PfNQK47q78lBcGnnRzeWdCzw0jxXIE8Xh8/tqGVLzKGZ/A68Fbe9Yv5y3v0HwYfD0IOh/q1jfoBvvSo2CTetUJZUZRk5ECaQI3+Nseuj2kJzPn/dlGKes3FwrpoO+Ww3EEk+uULqf0NSiuSO5JKNBWi145oSAnkX65/kZnxSWeHYw1erWk/St6HmE7ZpBXAuqiWdyJP/RMPcetn1qXgoqs+5JvWvRnaznuyBfMvBRi87saxWPG/K6JLhKK5HteT5upXeTop8PhmWyV7hg1z5HbClLxNzdef3Lqme8XuUHCVd+1ADGxt8hRueyBdDBQ9yKxRCJjb4utB7cle5/bqxQ+4Kcc4wB3TKMzyH0va4tbe0CgfgxLwl3erJB2u/av5L/K482gaKbbbREpXkD6kfbOZx0CW8N1qiPuTmJsg526Bo3405erSiZ9pCT+a4R35yquvMHD9K+c7Mca/MOpZS7F51ifZbd+a4ofzMVtcQ5rihfPgxJ1ddhMIzmQv0p6MtLt171lfN5MPhN+fz7nLRgBPzzl2TNrMnVuqOw1jmaFU+nPzHgTM/drk2xJSX10Ce1/njQPF1wzrLPaIGs58g+yTUku/VsV2i+VllTta/99DGPMylabPO+OmuSvnwGkSbYjsrjZZoisgvJPWfDsDj1h7Qq4WqxCq0D3zfuv5UfMl/Kv4CZb/DoSnKVTgAAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_045112_NO_1_112_0_3.html">義守大學 土木工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAA0CAIAAADpMup6AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACgElEQVRoge2b0XajMAxEx4b+//9uU9QHrVxDwUjCKWA8Jw9pjgPhMrIl4Qaif+iyK579A+6qDs6pDs6pDs6pcf7nKRwJoLXPRyAcPvjn4SOsawFueNNpipqArzPOe0jj/pDTlNOMEg2v7fGaMdW0AOc2dhS3VgwNWnu/GtT6MdV0Zccdl2/KnjSDGgYXvVO2ClxPR5xq2HETMAEDEAFSrBjsUO382Lzj9AuFLWdsHhzreCK91O1C9cM43uq4Hqr/lUBUNt2u4/40HVeoUJyFog/CnptsjtOEav0J4oAKSdYWNVJcQhrQQ/VHzEJ5+zu4H2nA2eIUDwNXYNfBrYgUpjODq57HmfIsTSVURVR0XOiO21LZcYnamY57dxPcWjmwuNoPG9kcu8fW/qwOTtXMOkMkGfLi1nriFDesVd2VQzLd728BIOstvx04R+WQvhgFbn4QT5zunqwxMZ38klOcmmeYR4FjOnlE80MJ23rKehQ4mpsu2c2TCTwKHIRRyJ6BeeyG54HLTee3G1oBF+RplkbJdAAm92P/26UjuYIYx9Rqpay16d8scTtwYf5K0ncrYzYsukudu4BLl7r4wSThRro9D/mawIcdfR2aK4OLa86CYDIXSVkGx+2sKEXY4FgirgwO2XxP85dDQTCRYJoEJZ/Fxu7K4Ca5TjespAW1dDSGFWV/icHCVwaHSt29LWrpFEHGQM+ujTyuoCibsFepsV7y+aDfUjfO3xeWc2Xr1dehxXu2hw/ZarBFjfWSy9fOdw07bpyvobuz5EviVLWVM3fcZbvePn3JRkH9RJmqsf2vhIb+e9DflXTo4quqScezFoManuPeqw7OqQ7OqQ7OqW9O+5yXSJVbTwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['逢甲大學 水利工程與資源保育學系', '中國文化大學 機械工程學系', '義守大學 土木工程學系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA70lEQVRYhe2WwRLDIAhEodP//2V6yJjBFdBo0jpT3i3ZkMJW17CIUFJ4/bqBvUg7KtKOirSjIu2oeHsCMxORee5cko47wPkAqPBOrQbvbDsJOoyx7TBnWJFGvGNmZganjkstxVVxG12MzXK7Fx4iosfQ08LMYIRXNdeGxrADfm9dOuBC8ACV8cwhR5ZYt40YNzvuRS91WNukxoa/XdvnBYQpTfP4ySKF85KsLGzvw9Zol1UgTbPRQTuYHUHVOo/bEefFbnxjs5ATiuDUYJQGVetgqpGzS1ckUMc/qCaq4ja6GHb8MxtF6Q6kHRVpR8UHZSfYLPb/TzMAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_015042_NO_1_112_0_3.html">逢甲大學 工業工程與系統管理學系B組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACNUlEQVRoge1a2ZKDIBDsgez//+8esg8UFCoMI4dATD+kkohK03M4g2TMN54KNXoCI/Eh/1RIyFP3WQzCSzBGAwA2YGMv8geY3I34MXdDQj6rPLlPhtiM5pM1ez8gJftYVMWsrPJWsYlsFQCgAOXmVq6KkPwksoecG4AnT3vlNWtm2oXGgtv9sGc15pydjb8rADPO7F9dI2VWeQTMt8QqaPaofExqAiGsEtRkURjydHL4lAlod5QJDWXkPYy7vj1dkqHzYK7i3XtgqD9wbgxe+eH47Xr1VPTuEl1nQ0r586LweQ51qQ65bNcFUT5tYun8iEoRXZFUVacBmq1cE4Ihb/b6R7kpV8xN8vx7DVHfhpiPX6YlcSBP7h8Jc+1k/2s/r1ugYj8lsqvVZcfe5+WyU5DVVF1HYUCG8wjnLfR2EuTzNRAqvwE658AUuLpxaxdVT7k1ih6lVsVJDQ7ks6V7GOSWfxA6uCvffn0FRe7Ccc5DaHuhtTMN/MUgJ++t/az5F3suf3QkhOSt1AObeV0gD7kpUzeJlsMC0b5+l3ZhW6gh/26prgALK1/jeFb5bPdq3mhfrPw7tLqKlfebOalawFd70VwwRXVUTN4XvymfN6cv06HM7Gnp1p1HmfK+8u8NSVhJjclPr4A83di6k0yvbM8fKDL722TvjqvkW3Vsp2h+XjJ7u11XzNzfy3tpNl72bW9eUr5yt3zbv+QzvilC975yPteLbTcX1bPQtvi8df1UfMg/Ff/ZboLIzO+xMwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_018232_NO_1_112_0_3.html">靜宜大學 資訊工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAAxCAIAAACNhrrVAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC1ElEQVR4nO2a3XKEIAyFD2jf/33bKr2gy0SQn8S4wI7notNt3SN+hgAB49w3HunJ9m7Ap+kBqqwHqLLW48cufB3getz3FkVAlx5t2IFN+l0DGPJR9m4M+Xn17a71S0aUBewRJZUDdmC/4NPuEMsoTZvsK7p/NNwKMsCSRxnkgN/LPlWTE80VofYsKdEeWgUdLluSXJE6GGDlMp0IaEQz1yttklgjRTS9CQVqyeDsL2ak+FmARjS3fIKrJr6IZgTLARvgyO3skXi9oVMotNPnNclw8fIp0AT5F70FY/IzBdAopq5Ma+iLKXfk7ZgHGrPzBEANaaRwKkOsApeWt0Lv1QpqfKC0hVdoCqwE84cJgGp1dhzDs8XKZaZTJVWBWmDtNxmIxpCLYvX39Mompi0RykjJ2uLGVIsVugPtKEFMVa1Ybh8FlDsoV93eoZFXSoWYskko7Jy0cGOETgd0yfSq5XXZluE1a4R+cS7m1sfWGhdfy7g4/7+kWSIUZAHqkt5NZ1eeabdtFXWg4s2MskLSPK1o7ElRbsnHPhe0Y6ULdaA39TVPs1C189kj5AR2HTMvXvIdedpEZdoyIyWYA3Hv6DQL0Gq1LVwW1d7frYmANopGcYcV8+cBzU3FJbU4wYJ1ZKAu83v7t3Q1PVBdXY/QJo0MVIZA1+1ju7yumwBo69JrcKDhGdrbWYgp9n6GoH44MlCINnILO3HcXUzJ/uDgQAUbuYVOKgbKKLUMDjTq9dXW0vreaUyFP5raeZClZnWuwYHiuOIsM12O4VkGWnazx/BkAB25Hurln8c/XqjRRXv00bnZwsKfuuHMzSQ0eSWr8YHi9UjhIf0D54bswi6IwI19umIKoEgoIDPoV2m2uzVaxaJHwqs7Nreq5Sy5yZ+nFZyKz50Klx+wxzwR6hUymhGsYc7cfvXc/kWBdtsp5Et3D07TbVKg42r8eehkeoAq6wGqrD9Y09pmXjVU2gAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1201005_NO_1_112_1_3.html">朝陽科技大學工業工程與管理系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAA0CAIAAADpMup6AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACgElEQVRoge2b0XajMAxEx4b+//9uU9QHrVxDwUjCKWA8Jw9pjgPhMrIl4Qaif+iyK579A+6qDs6pDs6pDs6pcf7nKRwJoLXPRyAcPvjn4SOsawFueNNpipqArzPOe0jj/pDTlNOMEg2v7fGaMdW0AOc2dhS3VgwNWnu/GtT6MdV0Zccdl2/KnjSDGgYXvVO2ClxPR5xq2HETMAEDEAFSrBjsUO382Lzj9AuFLWdsHhzreCK91O1C9cM43uq4Hqr/lUBUNt2u4/40HVeoUJyFog/CnptsjtOEav0J4oAKSdYWNVJcQhrQQ/VHzEJ5+zu4H2nA2eIUDwNXYNfBrYgUpjODq57HmfIsTSVURVR0XOiO21LZcYnamY57dxPcWjmwuNoPG9kcu8fW/qwOTtXMOkMkGfLi1nriFDesVd2VQzLd728BIOstvx04R+WQvhgFbn4QT5zunqwxMZ38klOcmmeYR4FjOnlE80MJ23rKehQ4mpsu2c2TCTwKHIRRyJ6BeeyG54HLTee3G1oBF+RplkbJdAAm92P/26UjuYIYx9Rqpay16d8scTtwYf5K0ncrYzYsukudu4BLl7r4wSThRro9D/mawIcdfR2aK4OLa86CYDIXSVkGx+2sKEXY4FgirgwO2XxP85dDQTCRYJoEJZ/Fxu7K4Ca5TjespAW1dDSGFWV/icHCVwaHSt29LWrpFEHGQM+ujTyuoCibsFepsV7y+aDfUjfO3xeWc2Xr1dehxXu2hw/ZarBFjfWSy9fOdw07bpyvobuz5EviVLWVM3fcZbvePn3JRkH9RJmqsf2vhIb+e9DflXTo4quqScezFoManuPeqw7OqQ7OqQ7OqW9O+5yXSJVbTwAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1206003_NO_0_112_1_3.html">龍華科技大學電子工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1208002_NO_0_112_1_3.html">明新科技大學電子工程系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> 112.5.27 </div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1219008_NO_0_112_1_3.html">中國科技大學資訊工程系(臺北校區)</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1227006_NO_1_112_1_3.html">德明財經科技大學資訊管理系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['逢甲大學 工業工程與系統管理學系B組', '靜宜大學 資訊工程學系', '朝陽科技大學工業工程與管理系', '龍華科技大學電子工程系', '明新科技大學電子工程系', '中國科技大學資訊工程系(臺北校區)', '德明財經科技大學資訊管理系'] stuno: stuno
+i: 
+   0
+i: <td align="right" colspan="2" scope="row" valign="middle"> </td>   1
+i: 
+   2
+i: <td colspan="2" scope="row" valign="middle" width="30%"><div align="center"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAUCAIAAACCmL1JAAAABnRSTlMA/wD/AP83WBt9AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAA7ElEQVRYhe2W3Q7DIAiFYen7vzK7MDaCQLHW1WR8d91Rfo6TFokIksrn7QL2Iu1gpB2MtIORdjAOS0BEAFDfO0NS+UVwLhCqiNmqTkwrmhrTR7dDjTsjRbxDREQUvZXHVvJ3WbmCKJflcS8siKhvo8QRPQsjrF3zKHaIfPNSASvOAqjtiSZHb+5lLosfjdLyf7ZO8ixdPXbLC0vyc13UaR3pU6M0vqYfCtBdk9GMkXpaNnrRBmeHs2ue5Xbcu8Nv5VpuhzMURfXBUXpvVxBldvQGO985EUmokQ+qFbsimKP0P9lolO5A2sFIOxhfsdnhRDscJuIAAAAASUVORK5CYII="/></div></td>   3
+i: 
+   4
+i: <td width="5%"><div align="center"></div></td>   5
+i: 
+   6
+i: <td colspan="4"><div align="left">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_014332_NO_1_112_0_3.html">淡江大學 數學學系數學組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="red"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAB+klEQVRoge2a0W7DIAxFL5D9//9uK+wBBRlSgsmMYre9T61EEh+wwXbiUvrGu8rfbcCd+sC/q7b67y1zkYB0x3Nb+HCHDRF4XL3WAY78nZvHbTxEozzga2yqBEQgDu/SwP/8w5rwvzsw5YDQxy5j/AV45fLPApP6+fmktDIE35D3fNsfNoKurMA35I++V4+9vcgQfFYCHlJHo4kkh+5wUTAp0A/viJGsA4wv/fDUQklyWIBf4vBZww3P7xP0K/tgnnwNLyzObj+XOYiqPHpJ8aPc7Sm8vDTDu9XwmpOcplal8odlixdCwxx86Hhr2IdN5H/i8F8zg9PkIbIxitnAz4WsrDxIkpsOHk5PxMzPCgFx+MsNqXOVIH/a84qHJkfg+JQ4vHwqAmAnP6lkcwSVuMhzMVgJzUcdleNFMqUd52ZW4BMvoGiouyGdIXimqHcMFv/14Cf6mZrhU+c3/6qBNMMvl2b46w15pqzAL5Fy+MLPt/OkFmylGR71oc30/ImGp3J4aj3T1InOl3L4xvOH1m5TDU/l8Kiz2nP+UC/7K7yizhiZudSt8VDP+5qcVVnrh8dOUtY8o9K9kGqik2UCHgd+dDb/uR6eI19gDjtkS8X5nsX1vz3gfodDZWXls0owu6kjrScKv6gDtUIyb6+MwstI/zm/UB/4d9UfmKF+cmgGf70AAAAASUVORK5CYII=" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_014412_NO_1_112_0_3.html">淡江大學 資訊工程學系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAAA1CAIAAAAWF/jDAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADTElEQVR4nO1b0ZKkIAxMwPv//73dkXuwoIJCDCGIztkPW7Ojg0zTpENgMIS/8MIObnYHvg0vocZ4CTWGhFAc3osvwiK4xwMAwAqwso18AMLZg/h7vgESQk8VivEvQ9b/IvNTQlNMqMnzC4BkvEPnHDolFONjLsYfi0Z+6pcQwOVUUgQ2xHEQEvpEedZEsFHJuzECeACnCPo8oZgr1LP98NG+FI9jpKRGUQQuCpOCUob56wXg06QnnlAXn3f9lP9VfcoTBRRZoEO+3RMOhGJOumti4FShQNpaK+169qr8HgrFEO68hW+8FiJDvLqQ7MXLB5ghFA8BtDZQnvSyhlZCFaDhiOnJCvARtPabc8onheVO1C49JRWXpD4fGZsb6KhI1+jMfc9KxWnU4+UpR82sTvpRe/9xhG7gI08TNFOzFkOPRPM5E/SlTdCXOcntaDiKHNXWD7eF0I6uQFEyRZZrecaW+s0tI5mtxPvBEBpynRY76mI+MVEXQjtSgH59acvFWAlijhL1EzHCjnYtg/w77gjF+I6kZz7KU57ZmWOoHWkiiSv9KxlqdzN5wgB5aiIJjaFyeSLJkE5LYTw660yD7AjVkYRyIYyeKMg3r8E4O/Kk5baARhW6AvizzyMJnSGOR1FlLvJevIqy7Sweg+zI5+OkLzAfi4O1h21GNDf5H2RHLh+nZr/dhT9+2zKVs4ZW4YQYYUeORLOgK3IL5x2d6crdK2uY29GOTWUuKCc0zfRj7/kdSpP9yx3M7QgPklcOkpDQrdPzV8oRtnaEB1vXtym32tozarFmnMvb2pElm2Bx+u56zRrakTGb0EforLTJyo7s2YQHKtTQjuzZhL7lytab050PW5e3sqNlBJvQodAp2yRWdjSKTeizWmAT4LSGK+YAugqLiR0tedAwXqSoCU2FvppSwuFFP/rtaMemfWlcN+XTwunKNWi/HQ1nE7QKTZXTK9FpR0su8LXdA0TfV0EoXddfhn47Oh78bIVoc0Ex5efKE+5R66qilVCrnc7WDb4bHWXg0aR8H4/z6thMz1J4i+5AM8WIU+cFNCk0ne7VaWTND+3fpFBtDLz2592zfqRzHfq3HpvwzVRueH+NbIyXUGO8hBrjJdQY/wC2X/WxT/ZPJQAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+<img align="absbottom" alt="分發錄取" border="0" height="23" src="./國立新竹女中學測查榜- 112年大學 _ 科大交叉查榜-www.com.tw_files/putdep1.png" title="分發錄取" width="23"/>
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_020182_NO_1_112_0_3.html">輔仁大學 數學系資訊數學組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class="green"><img height="18" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAA1CAIAAABQoVtpAAAABnRSTlMA/wD/APpHMu/yAAAACXBIWXMAAA7EAAAOxAGVKw4bAAACg0lEQVRoge2aQXLDIAxFBaT3v2/bmC40MAoGIYQK9iRvkUlrGxAfPqDYxfgN74rf3YCdfIJ/VyTBu39vxSYegnsCAAAcAAdbyBMg9iri71mNJPiu8i59MoFdcfh0h32+oSX7jekqj4qtH6tfFoX88Je7ymPwd5S9LxivvHtVPrCdFZI1KqrrSKSiLxgfPIYadwz7X9VTgag1G3wx4Y9GLwT2qvweiqK7HVlTRI8zwbvThG8NgZCuMp09GrwCOiVFJsXM4XzpQtsSFiq7qM1M8FfclrTxpMHStakVvL9h8IjI6pDWnD93Cr/OwdxSB3Or3bDVIdV43G1lh6H9WFWKao+0TnW4tO49rg1bHcIEH1/1rxbq02Fu4/5XY3X5yQLJol08vnct1Fhd8STi0n8kpYQk+3OoSlOUVof42p+SLvQXkx0UU4/OebnsjqxqXnAuZpg8zymtDqHtFs52J1jP16C3OoQqfwCE3gR2ZKrH1HdV9Xzqo+pVJ0sf8uitDimC7w4eanJ7N0JTVocU05VPvz7IIXf7UW/K6hDh2KOjnUngr2TK6hB58Hm0n2viM60mediCWatDhMFjBVuSeVVmrQ6RW26rjthINv6f2xtYHTL/K+36sWBgdeeCRtm11BlYHXI75W2sDpnZZmEjutkrW7e3sbqirFG2pLrMrA6ZsVxgD/P5tFddC3SnIzOrQ9TB58NvS4F4+jKPmdUhumHvyFZ3GZZWl0tUkE/+K7G0uqJEOXSfvwxjq0MUwe+VHQzn2mjwVhnb0eSnsdUhQ26PP9epI891KXxL96JGhyHlYzIbXd8fry/57E+KuLWvnO96sa3OfAp1iKuEjXzeun5XPsG/K3+d5KmpzQE43AAAAABJRU5ErkJggg==" width="50"/></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1201009_NO_1_112_1_3.html">朝陽科技大學建築系室內設計組</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"></div></div></div></td>
+</tr>
+<tr>
+<td align="right" scope="row" width="5%"><div align="right">
+</div>
+<div align="left"></div>
+<div align="left"></div></td>
+<td align="left" scope="row" width="70%"><div align="left"><a href="https://www.com.tw/cross/check_1206006_NO_0_112_1_3.html">龍華科技大學工業管理系</a></div></td>
+<td align="left" width="17%"><div align="left"><div align="left">
+<div align="center" class=""></div><div class="retestdate"> --- </div></div></div></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div align="center"></div> <div align="center"></div></td>   7
+i: 
+   8
+list_dept: ['淡江大學 數學學系數學組', '淡江大學 資訊工程學系', '輔仁大學 數學系資訊數學組', '朝陽科技大學建築系室內設計組', '龍華科技大學工業管理系'] stuno: stuno
