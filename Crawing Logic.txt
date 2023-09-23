@@ -110,3 +110,17 @@ if 遇到對的(list[i])就break
 目前的現況是一位同學的考區去20-27個試場「算」並找到對的那個人的條件(stuno[0:3] & stuno[-1] & dept_whole)
 每一個人都算一次但是我們有「計算」過了，乾脆直接存在記憶體內就好，不需要讓下一位「同考區」的人再算一次，直接從現有變數(記憶體內)
 的變數內容找就好。
+
+if no "長庚大學" in list dont append
+
+先不要做影像判讀 先把img馬塞入list就好?
+這樣就不會遇到count先算到img的問題，島是後面遇到校系時無法再決定要不要取用
+有大機率系所數量、系所兩人申請相同
+所以優先考慮比對數字 third and last, 再對應科系(https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical)
+
+
+if 變數(exam_lovation with lists)存在 不用去算 -> 直接拿變數的值
+
+
+1. dict 儲存
+2. 有長庚大學list再存(if)
