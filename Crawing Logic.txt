@@ -138,5 +138,6 @@ output_list_&_num.txt 會友空白的原因是因為那是白色格子的試場
 # df = df.dropna()
 # else: department_name.append(np.nan)
 
+'' changed into 0
 
-now testing if the df can explode and  concat
+now testing if the df can explode and  concat -> yes

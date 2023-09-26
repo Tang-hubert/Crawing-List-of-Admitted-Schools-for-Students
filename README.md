@@ -6,7 +6,6 @@
 
 - (not sure)add efficiency thoughts: calculate each students searching(every folders with same exam_location) for each correspond stuno(third and last) and make it store in a variable(hard, have to do dict in list [{}]). and just call it to get the value.
 
-- find the lower number first, cuase if I build the get_test_location_url.ipynb it probably will start from lower number
 
 ### Done
 - figuring out what's `processing_list` function doing (?count?)
@@ -40,6 +39,9 @@ feat: add if-statement
 1. first: stuno_second and stuno_last 
 1. second: comapre numbers
 1. third: compare depts (use [this](https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical))
+
+- find the lower number first, cuase if I build the get_test_location_url.ipynb it probably will start from lower number: using glob.iglob(`list`)
+
 ### WTF section
 - when csvs all output, then use excel to clean it (下拉cell) it can sort by the rules itself, in the end just check。
 - output_list_&_num.txt have some blanks because we start from black ones not white, if blank then white.
