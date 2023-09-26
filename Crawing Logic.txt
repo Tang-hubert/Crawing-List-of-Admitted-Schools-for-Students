@@ -131,3 +131,12 @@ output_list_&_num.txt 會友空白的原因是因為那是白色格子的試場
 對應區塊不能只有黑色 也有 include 白色
 
 [filename, [num3, numlast, [dept1, dept2], img], [num3, numlast, [dept1, dept2], img]]
+
+
+121mins for 中醫系
+
+# df = df.dropna()
+# else: department_name.append(np.nan)
+
+
+now testing if the df can explode and  concat
