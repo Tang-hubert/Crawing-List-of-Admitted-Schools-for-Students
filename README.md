@@ -2,6 +2,17 @@
 
 ## get data from using Ctrl+S at [department list](https://www.com.tw/cross/university_030_112.html) each dep.
 
+# How to run code?
+> I didnt clean the code at the end!
+1. get data from using Ctrl+S at [department list](https://www.com.tw/cross/university_030_112.html) each dep. Save it in to ./data/department folder
+1. Run `get_test_location_url.ipynb`
+1. Based on the name of the file `whole.csv`, save (Ctrl+S) all of the links with sequence [0-n] at the end of the default filename.
+1. Run `main.ipynb` and move all of the csv files into another folder(still need it in the future).
+1. Run `main_get_side_rank.ipynb`
+1. paste the column named `dept_rank` into those original files(step 4) at the new line(column).
+1. check if `rank` & `dept_rank`(correct rate 60%) is completely correct or not artificially.
+1. hand in the result!
+
 ### TO-DO
 
 - (not sure)add efficiency thoughts: calculate each students searching(every folders with same exam_location) for each correspond stuno(third and last) and make it store in a variable(hard, have to do dict in list [{}]). and just call it to get the value.
@@ -46,3 +57,5 @@ feat: add if-statement
 - when csvs all output, then use excel to clean it (下拉cell) it can sort by the rules itself, in the end just check。
 - output_list_&_num.txt have some blanks because we start from black ones not white, if blank then white.
 - output_list_&_num_fixed.txt white and dark will find the complete exam_location list seperately. 
+
+
