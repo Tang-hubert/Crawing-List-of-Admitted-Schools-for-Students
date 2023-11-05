@@ -6,7 +6,7 @@
 > I didnt clean the code at the end!
 1. `git pull` in terminal.
 1. get data from using Ctrl+S at [department list](https://www.com.tw/cross/university_030_112.html) each dep. Save it in to ./data/department folder
-    > or you may try another library named `[selenuim](https://medium.com/marketingdatascience/selenium%E6%95%99%E5%AD%B8-%E4%B8%80-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8webdriver-send-keys-988816ce9bed)`
+    > or you may try another library named [selenuim](https://medium.com/marketingdatascience/selenium%E6%95%99%E5%AD%B8-%E4%B8%80-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8webdriver-send-keys-988816ce9bed)
 1. Run `get_test_location_url.ipynb`
 1. Based on the name of the file `whole.csv`, save (Ctrl+S) all of the links with sequence [0-n] at the end of the default filename.
 1. Run `main.ipynb` and move all of the csv files into another folder(still need it in the future), if you didnt move it, then whem you run `main_get_side_rank.ipynb` the result will cover it.
