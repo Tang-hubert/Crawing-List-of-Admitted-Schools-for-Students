@@ -1,0 +1,6 @@
+# --- START OF FILE requirements.txt ---
+beautifulsoup4
+pandas
+pytesseract
+Pillow
+opencv-python
