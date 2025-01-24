@@ -1,65 +1,119 @@
 # Crawing-List-of-Admitted-Schools-for-Students
 
-## get data from using Ctrl+S at [department list](https://www.com.tw/cross/university_030_112.html) each dep.
+## Get Data
 
-# How to run code?
-> I didnt clean the code at the end!
-1. `git pull` in terminal.
-1. get data from using Ctrl+S at [department list](https://www.com.tw/cross/university_030_112.html) each dep. Save it in to ./data/department folder
-    > or you may try another library named [selenuim](https://medium.com/marketingdatascience/selenium%E6%95%99%E5%AD%B8-%E4%B8%80-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8webdriver-send-keys-988816ce9bed)
-1. Run `get_test_location_url.ipynb`
-1. Based on the name of the file `whole.csv`, save (Ctrl+S) all of the links with sequence [0-n] at the end of the default filename.
-1. Run `main.ipynb` and move all of the csv files into another folder(still need it in the future), if you didnt move it, then whem you run `main_get_side_rank.ipynb` the result will cover it.
-1. Run `main_get_side_rank.ipynb`
-1. paste the column named `dept_rank` from the new output into those original files(step 5) at the new line(column).
-1. check if `rank` & `dept_rank`(correct rate 60%) is completely correct or not artificially.
-    > if you want to make it better, then you may try to find a better OCR tool.
-1. hand in the result!
+This project is designed to crawl and process lists of admitted students for various departments from a specific website. Data is initially obtained by manually saving HTML pages from the department list website and then processed using Python scripts to extract and organize the information.
 
-### TO-DO
+### Website for Data Collection
 
-- (not sure)add efficiency thoughts: calculate each students searching(every folders with same exam_location) for each correspond stuno(third and last) and make it store in a variable(hard, have to do dict in list [{}]). and just call it to get the value.
-- If the filename named correctly, you may think of a better way to improve the efficiency.
+*   [Department List](https://www.com.tw/cross/university_030_112.html) - Use Ctrl+S to save each department's page locally.
 
+## How to Run the Code
 
-### Done
-- figuring out what's `processing_list` function doing (?count?)
-- find the department he get into.
-- merge dataframe one by one column from different dataframe
-- 正取、備取 have limit. using try, except, else functions. We can try to download all of the test place and use substring to enter it and compare to what unis he had apllied to get the whole test number.
-    1. download all test place
-    1. compare (two if-else statement)
-        1. test number first three digits and the last digit to get only few candidates.
-            > if first digit is `L`, `l` then change it to `1`.
-        1. campare to unis he had applied
-    1. get whole test num
+> **Note:** The code has been refactored into Python scripts for better organization and execution.
 
-- try to get the whole `<td` count i:9 and print univ_and_department with accepted univ_and_department. 
+1.  **Clone the repository:**
+    ```bash
+    git clone <repository_url>
+    cd Crawing-List-of-Admitted-Schools-for-Students
+    ```
 
-- fixed the sequence of department_name (正1、正2沒有對應到 都會延後兩位)
+2.  **Collect HTML Data:**
+    *   Visit the [department list website](https://www.com.tw/cross/university_030_112.html).
+    *   For each department's page you want to process, use **Ctrl+S** (or Cmd+S on macOS) to save the HTML file.
+    *   **Important:** Save these HTML files into the `./data/department` folder. Ensure the filenames are descriptive (the default filename when saving should be sufficient).
 
-- Get location link first, use excel to delete which more than one and Ctrl+s by each.
+    > **Alternative Data Collection (Selenium - Optional):**
+    > If you prefer automated data collection, you can explore using a library like [Selenium](https://medium.com/marketingdatascience/selenium%E6%95%99%E5%AD%B8-%E4%B8%80-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8webdriver-send-keys-988816ce9bed) to automate the process of downloading HTML files. However, this project currently relies on manually saved HTML files.
 
-- for stuno:
-    - If want to get the whole number then have to enter the `test place` link, but we cannot enter the website(now we've downloaded whole list of all department using Ctrl+s)
+3.  **Install Libraries:**
+    Ensure you have the necessary Python libraries installed. It is recommended to create a virtual environment first.
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Linux/macOS
+    venv\Scripts\activate  # On Windows
+    pip install -r requirements.txt
+    ```
+    > **Tesseract OCR:** You also need to have [Tesseract OCR](https://tesseract-ocr.github.io/) installed on your system. Make sure to add the Tesseract executable directory to your system's PATH environment variable, or you will need to specify the path in the Python script.
 
-    - get all univ & department they had applied and add it into df using for loop. Run `get _test_location_url.ipynb` to get a csv file named `whole.csv`. -> Trying to delete which repeat.: We can use excel! Nice!
+4.  **Run `get_location_url.py`:**
+    This script processes the HTML files in the `./data/department` folder to extract university and department location URLs.
+    ```bash
+    python get_location_url.py
+    ```
+    *   **Configuration:**
+        *   Modify `input_directory` and `result_directory` variables in `get_location_url.py` if your input and output directories are different.
 
-fix: glob.iglob repeat finding same exam_location_folder.
+    *   **Output:**
+        *   University-specific CSV files will be created in the `./result/location` folder (e.g., `長庚大學.csv`).
+        *   A combined `whole.csv` file containing data from all processed universities will also be created in the `./result/location` folder.
 
-to fix `\n` in the stuno numbers in list
+5.  **Run `get_side_rank.py`:**
+    This script processes the same HTML files again to extract rank information using OCR (Optical Character Recognition) and combines it with other data.
+    ```bash
+    python get_side_rank.py
+    ```
+    *   **Configuration:**
+        *   Modify `input_directory` and `result_directory` variables in `get_side_rank.py` if your input and output directories are different.
+        *   **Crucially:** Update `tesseract_exe_path` in `get_side_rank.py` to the correct path of your Tesseract OCR executable.  For example: `tesseract_exe_path = r'C:\Program Files\Tesseract-OCR\tesseract.exe'`
 
-feat: add if-statement
-- make each students in list find their own, using 
-1. first: stuno_second and stuno_last 
-1. second: comapre numbers
-1. third: compare depts (use [this](https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical))
+    *   **Output:**
+        *   University-specific CSV files with rank information will be created in the `./result` folder (e.g., `長庚大學.csv`). These files will overwrite any previous CSV files with the same name in this folder if they exist.
 
-- find the lower number first, cuase if I build the get_test_location_url.ipynb it probably will start from lower number: using glob.iglob(`list`)
+6.  **(Optional) Combine Location and Rank Data:**
+    If you want to merge the location URLs from `whole.csv` (generated by `get_location_url.py`) with the rank data from the CSVs generated by `get_side_rank.py`, you would need to write an additional script or use a tool like Pandas to join the dataframes based on common keys (e.g., university and department name). Currently, this merging step is not automated in the provided scripts.
 
-### WTF section
-- when csvs all output, then use excel to clean it (下拉cell) it can sort by the rules itself, in the end just check。
-- output_list_&_num.txt have some blanks because we start from black ones not white, if blank then white.
-- output_list_&_num_fixed.txt white and dark will find the complete exam_location list seperately. 
+7.  **Verify and Correct Data:**
+    *   **Rank and Department Rank Accuracy:** The OCR process for extracting `rank` and `dept_rank` might not be 100% accurate (expect approximately 60% accuracy).
+    *   **Manual Verification:**  Manually check the `dept_rank` column in the output CSV files and correct any OCR errors. You may need to compare the extracted ranks against the original HTML pages.
 
+8.  **Final Result:**
+    After running these scripts and performing manual verification, you will have CSV files in the `./result` folder containing lists of admitted students with extracted rank information for each university and department.
 
+## Requirements
+
+*   Python 3.8 or higher
+*   **Python Libraries (install using `pip install -r requirements.txt`):**
+    *   `beautifulsoup4`
+    *   `pandas`
+    *   `pytesseract`
+    *   `Pillow` (PIL)
+    *   `opencv-python`
+*   **Tesseract OCR Engine:**
+    *   Install Tesseract OCR from [https://tesseract-ocr.github.io/](https://tesseract-ocr.github.io/)
+    *   Ensure the Tesseract executable is in your system's PATH or correctly specified in `get_side_rank.py`.
+
+## TO-DO
+
+*   **(Efficiency Improvement - Not Sure):**  Explore efficiency improvements by calculating and storing student-specific search results (for each `exam_location` folder corresponding to a `stuno`) in a variable (potentially a list of dictionaries `[{}]`). This could optimize data retrieval and processing. (Implementation complexity: Hard, requires dictionary manipulation within lists).
+*   **(Filename-Based Efficiency):** If filenames are consistently named, investigate filename-based optimizations to improve processing efficiency.
+*   **(Data Merging Script):** Create a script to automatically merge location URLs from `whole.csv` with the rank data generated by `get_side_rank.py` for a more integrated dataset.
+
+## Done
+
+*   **Function `processing_list` Understanding:** Clarified the purpose and functionality of the `processing_list` function.
+*   **Department Extraction:** Successfully extracted the department each student was admitted to.
+*   **Dataframe Merging:** Implemented merging of dataframes column by column from different sources.
+*   **正取、備取 Handling:** Addressed limitations in handling "正取" (Regular Admission) and "備取" (Backup Admission) ranks using `try`, `except`, and `else` blocks to improve robustness. Considered downloading test place lists and substring comparison for potential full test number extraction.
+*   **Complete `<td` Count for University and Department:** Successfully extracted university and department information from `<td` count `i:9` and filtered for accepted university and department combinations.
+*   **Department Name Sequence Fix:** Resolved issues with the department name sequence (`正1`, `正2` not correctly corresponding and being delayed by two positions).
+*   **Location Link Extraction:** Implemented extraction of location links and suggested using Excel to filter and save relevant links.
+*   **Student Number (`stuno`) Handling:**
+    *   Discussed limitations in obtaining the full student number without accessing the test place link (currently using downloaded department lists).
+    *   Extracted university and department applications and added them to the dataframe using a loop and `get_test_location_url.py` to generate `whole.csv`.
+    *   Suggested using Excel to remove duplicate entries in `whole.csv`.
+*   **`glob.iglob` Fix:** Resolved the issue of `glob.iglob` repeatedly finding the same `exam_location_folder`.
+*   **Newline Character Fix:** Fixed the issue of newline characters `\n` appearing in student numbers within lists.
+*   **Feature: Conditional Statement Addition:** Added `if` statements to improve script logic and control flow.
+*   **Student-Specific Data Retrieval:** Implemented logic to allow each student in the list to find their own data using:
+    1.  `stuno_second` and `stuno_last` (parts of student number).
+    2.  Number comparison.
+    3.  Department comparison (using list element identity check).
+*   **Lower Number First Processing:** Implemented processing starting from lower numbers first using `glob.iglob(\`list\`)`.
+*   **Code Refactoring:** Refactored Jupyter Notebook code into Python scripts (`get_location_url.py` and `get_side_rank.py`) for better code organization and script execution.
+
+## WTF Section
+
+*   **Excel for CSV Cleaning:** Acknowledged the use of Excel for cleaning and sorting CSV outputs, particularly for using Excel's cell fill-down feature to apply rules and checking/sorting results.
+*   **`output_list_&_num.txt` Blank Lines:** Explained that blank lines in `output_list_&_num.txt` were due to starting the process from black table rows instead of white rows.
+*   **`output_list_&_num_fixed.txt` Complete Exam Location List:** Clarified that `output_list_&_num_fixed.txt` addresses the blank line issue by separately finding complete exam location lists for white and dark table rows.
